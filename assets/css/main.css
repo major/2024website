@@ -1,0 +1,16 @@
+html {
+    font-family: "Poppins", "Fjalla One", "Sans-Serif";
+}
+
+body {
+    margin: 0;
+}
+
+section {
+    display: grid;
+    justify-content: center;
+}
+
+section h2 {
+    text-align: center;
+}
