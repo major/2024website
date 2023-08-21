@@ -1,0 +1,682 @@
+################# Banner ###################
+banner:
+  enable : true
+  heading : "Texas Linux Festival"
+  heading_2 : "April 12-13, 2024"
+  content : "Austin, TX"
+  timer:
+    enable : true
+    year : 2024
+    month : 4
+    day : 12
+  button:
+    enable : true
+    label : "get tickets now"
+    link : "pricing/"
+
+    
+################# About ###################
+about:
+  enable : true
+  title : "About _Texas Linux Festival_"
+  image : "images/speakers/featured-speaker.jpg"
+  content : "Texas Linux Fest is the first state-wide annual community-run conference for Linux and open source software users and enthusiasts from around the Lone Star State. Much like SCALE in Los Angeles, Ohio Linux Fest in Columbus, and Linux Fest Northwest – and an ever-growing list of successful regional shows – Texas Linux Fest is a weekend event geared towards individual users, rather than an expensive multi-workday expo that might cater primarily to sponsored attendees. Whether you use free software and Linux at home, in your place of business, in your school or non-profit, or you are simply curious, Texas Linux Fest offers something for you.
+  <br><br>
+  Texas Linux Festival is a non-profit (501c) community based organization that is run by volunteers to organize and provide the TXLF conferences. The first official TXLF conference was held in 2010 in Austin, TX."
+  button_solid:
+    enable : true
+    label : "Buy tickets"
+    link : "pricing/"
+  button_outline:
+    enable : true
+    label : "Read more"
+    link : "about/"
+
+    
+################# Speaker ###################
+speakers:
+  enable : true
+  cfp_open: true
+  cfp_link: https://www.papercall.io/txlf2024
+  cfp_label: "Submit a talk to our _Call For Papers_"
+  title : "Who is _Speaking?_"
+  title_cfp: "Our _Call for Papers_ is Open!"
+  content : "Check out our speakers lined up!"
+  content_cfp_topics:
+  - "Linux kernel and system development"
+  - "Open-source software in enterprise environments"
+  - "DevOps and continuous integration/continuous deployment (CI/CD)"
+  - "Cloud computing and virtualization"
+  - "Containerization and orchestration (e.g., Docker, Kubernetes)"
+  - "Internet of Things (IoT), Raspberry Pi’s, and embedded systems"
+  - "Linux gaming and graphics"
+  - "Privacy, security, and encryption"
+  - "Artificial Intelligence (AI) and Machine Learning (ML) on Linux"
+  - "Linux distributions and desktop environments"
+  - "Linux in education and academia"
+  - "Introduction for new users to Linux, OSS Applications or Free Software"
+  content_cfp: "We invite you to be a part of this exceptional event by sharing your expertise and passion with the community. We are seeking engaging and insightful presentations that cover a broad range of topics related to Linux, open-source software, and the wider technology ecosystem. Whether you have hands-on experience, a new research breakthrough, or an inspiring vision for the future of Linux, we want to hear from you!"
+ 
+  # speaker items are coming from "content/speakers" folder
+
+###################### Tab ####################
+tab:
+  enable : true
+  title : "Event Schedule"
+  content : "The _[Call For Papers](https://www.papercall.io/txlf2024)_ is open!"
+  tablist:
+  # tab item
+  - name : "Day-01"
+    date : "12 April 2024"
+    tablist_items:
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Keynote"
+      venue : "Auditorium A"
+      time : "9:00 AM"
+
+    ## 10:00 am
+
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Track 1"
+      venue : "Room A"
+      time : "10:00 AM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Track 2"
+      venue : "Room B"
+      time : "10:00 AM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Track 3"
+      venue : "Room C"
+      time : "10:00 AM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Track 4"
+      venue : "Room D"
+      time : "10:00 AM"
+    
+    ## 11:00 am
+
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Track 1"
+      venue : "Room A"
+      time : "11:00 AM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Track 2"
+      venue : "Room B"
+      time : "11:00 AM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Track 3"
+      venue : "Room C"
+      time : "11:00 AM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Track 4"
+      venue : "Room D"
+      time : "11:00 AM"
+    
+    # 12:00 pm
+
+    ## 10:00 am
+
+    # speaker
+    - speaker : "None"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Lunch"
+      venue : "Offsite"
+      time : "12:00 PM"
+      
+    ## 1:00 pm
+
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Track 1"
+      venue : "Room A"
+      time : "1:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Track 2"
+      venue : "Room B"
+      time : "1:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Track 3"
+      venue : "Room C"
+      time : "1:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Track 4"
+      venue : "Room D"
+      time : "1:00 PM"
+    
+
+    ## 2:00 pm
+
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Track 1"
+      venue : "Room A"
+      time : "2:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Track 2"
+      venue : "Room B"
+      time : "2:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Track 3"
+      venue : "Room C"
+      time : "2:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Track 4"
+      venue : "Room D"
+      time : "2:00 PM"
+    
+    ## 3:00 pm
+
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Track 1"
+      venue : "Room A"
+      time : "3:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Track 2"
+      venue : "Room B"
+      time : "3:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Track 3"
+      venue : "Room C"
+      time : "3:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Track 4"
+      venue : "Room D"
+      time : "3:00 PM"
+    
+    ## 4:00 pm
+
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Track 1"
+      venue : "Room A"
+      time : "4:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Track 2"
+      venue : "Room B"
+      time : "4:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Track 3"
+      venue : "Room C"
+      time : "4:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Track 4"
+      venue : "Room D"
+      time : "4:00 PM"
+      
+  # tab item
+  - name : "Day-02"
+    date : "13 April 2024"
+    tablist_items:
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Keynote"
+      venue : "Auditorium A"
+      time : "9:00 AM"
+
+    ## 10:00 am
+
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Track 1"
+      venue : "Room A"
+      time : "10:00 AM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Track 2"
+      venue : "Room B"
+      time : "10:00 AM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Track 3"
+      venue : "Room C"
+      time : "10:00 AM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Track 4"
+      venue : "Room D"
+      time : "10:00 AM"
+    
+    ## 11:00 am
+
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Track 1"
+      venue : "Room A"
+      time : "11:00 AM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Track 2"
+      venue : "Room B"
+      time : "11:00 AM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Track 3"
+      venue : "Room C"
+      time : "11:00 AM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Track 4"
+      venue : "Room D"
+      time : "11:00 AM"
+    
+    # 12:00 pm
+
+    ## 10:00 am
+
+    # speaker
+    - speaker : "None"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Lunch"
+      venue : "Offsite"
+      time : "12:00 PM"
+      
+    ## 1:00 pm
+
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Track 1"
+      venue : "Room A"
+      time : "1:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Track 2"
+      venue : "Room B"
+      time : "1:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Track 3"
+      venue : "Room C"
+      time : "1:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Track 4"
+      venue : "Room D"
+      time : "1:00 PM"
+    
+
+    ## 2:00 pm
+
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Track 1"
+      venue : "Room A"
+      time : "2:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Track 2"
+      venue : "Room B"
+      time : "2:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Track 3"
+      venue : "Room C"
+      time : "2:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Track 4"
+      venue : "Room D"
+      time : "2:00 PM"
+    
+    ## 3:00 pm
+
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Track 1"
+      venue : "Room A"
+      time : "3:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Track 2"
+      venue : "Room B"
+      time : "3:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Track 3"
+      venue : "Room C"
+      time : "3:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Track 4"
+      venue : "Room D"
+      time : "3:00 PM"
+    
+    ## 4:00 pm
+
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-two.jpg"
+      subject : "Track 1"
+      venue : "Room A"
+      time : "4:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-three.jpg"
+      subject : "Track 2"
+      venue : "Room B"
+      time : "4:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-four.jpg"
+      subject : "Track 3"
+      venue : "Room C"
+      time : "4:00 PM"
+      
+    # speaker
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-five.jpg"
+      subject : "Track 4"
+      venue : "Room D"
+      time : "4:00 PM"
+
+############ Registration ####################
+registration:
+  enable : true
+  title : "Register to _Texas Linux Festival 2024_"
+  content : "**Registration for Texas Linux Festival 2024 is now open!**"
+  form_action : "#" # works with formspree.io
+  hide_form: true
+  link: "https://register.linuxfests.org/reg6/"
+  button_text: "Register now!"
+
+  funfacts:
+  - name : "15 Speakers"
+    icon : "fa-microphone"
+    
+  - name : "350 + Seats"
+    icon : "fa-flag"
+    
+  - name : "350 tickets"
+    icon : "fa-ticket"
+    
+  - name : "2 day event"
+    icon : "fa-calendar"
+
+
+
+
+############ Pricing ####################
+pricing:
+  enable : true
+  title : "Get _Tickets_"
+  content : "Event Pricing for Texas Linux Festival 2024"
+  pricing_table:
+  - name : "Early Bird Ticket"
+    price : "50.00"
+    price_per : "Person"
+    button_link : "https://register.linuxfests.org/reg6/"
+    features:
+    - "Full Access to the event"
+    - "Helps make TXLF possible!"
+  
+  #- name : "Enthusiast"
+  #  price : "75.00"
+  #  price_per : "Person"
+  #  button_link : "https://register.linuxfests.org/reg6/"
+  #  features:
+  #  - "Full Access to the event"
+  #  - "Helps make TXLF possible!"
+  #  
+  #- name : "Supporter"
+  #  price : "100.00"
+  #  price_per : "Person"
+  #  button_link : "https://register.linuxfests.org/reg6/"
+  #  features:
+  #  - "Full Access to the event"
+  #  - "Supporter level badge"
+  #  - "Helps make TXLF possible!"
+
+sponsorship_pricing:
+  enable : true
+  title : "_Sponsor Us_"
+  content : "Sponsorship Prospectus Pricing for Texas Linux Festival 2024"
+  pricing_table:
+  - name : "Diamond <small>(only one available)</small>"
+    button_text: "Be our key Diamond Sponsor!"
+    price : "8000"
+    price_per : "Sponsor"
+    button_link : "contact/"
+    description: "The Diamond Sponsorship package provides your organization with top level visibility at the Texas Linux Fest. This exclusive package will demonstrate your organization’s leadership role in the Linux and open-source community."
+    features:
+    - "Two (2) page color ad in the conference program"
+    - "Prominent logo placement on the website"
+    - "Prominent logo placement in signage"
+    - "30'x10' booth"
+    - "Full day vendor tutorial/workshop slot"
+    - "First logo listing on website"
+    - "First choice of booth location"
+    - "First opportunity to host a conference reception"
+    - "Helps make TXLF possible!"
+    
+  - name : "Platinum"
+    price : "6500"
+    price_per : "Sponsor"
+    button_link : "contact/"
+    description: "The Platinum Sponsorship package allows your organization to participate in high profile marketing opportunities at the Texas Linux Fest."
+    features:
+    - "Full page color ad in the conference program"
+    - "Prominent logo placement on the website"
+    - "Prominent logo placement in signage"
+    - "30'x10' booth"
+    - "Full day vendor tutorial/workshop slot"
+    - "Option for Tote Bag Insert"
+    - "Helps make TXLF possible!"
+
+  - name : "Gold"
+    price : "5000"
+    price_per : "Sponsor"
+    button_link : "contact/"
+    description: "The Gold Sponsorship package allows your organization to participate in high profile marketing opportunities at the Texas Linux Fest."
+    features:
+    - "Half page ad in the conference program"
+    - "Logo placement on the website"
+    - "20'x10' booth"
+    - "Half day vendor tutorial/workshop slot"
+    - "Option for Tote Bag Insert"
+    - "Helps make TXLF possible!"
+
+  - name : "Silver"
+    price : "2500"
+    price_per : "Sponsor"
+    button_link : "contact/"
+    description: "The Silver Sponsorship package allows your organization to participate in high profile marketing opportunities at the Texas Linux Fest."
+    features:
+    - "Quarter page ad in the conference program"
+    - "Logo placement on the website"
+    - "10'x10' booth"
+    - "Helps make TXLF possible!"
+
+  - name : "Community Exhibitor"
+    button_text: "I'm interested in being a Community Exhibitor"
+    price : "2500"
+    price_per : "Sponsor"
+    button_link : "contact/"
+    description: "This package is only for non-profits and approved community organizations wishing to support Texas Linux Festival"
+    features:
+    - "Logo placement on the website"
+    - "10'x10' booth"
+
+  - name : "Food & Beverage Sponsorship"
+    button_text: "Sponsor Food & Beverage"
+    price : "Varies"
+    price_per : "Sponsor"
+    button_link : "contact/"
+    description: "During the conference day there are opportunities for coffee, snacks and other food to be served. We’re happy to work with sponsors and the venue to make these times an opportunity to promote a sponsor."
+    features:
+    - "Logo placement on signage related to the food and beverages provided"
+    - "Helps make TXLF possible!"
+
+  - name : "Track Sponsorship"
+    button_text: "Sponsor a Track"
+    price : "1000"
+    price_per : "Sponsor"
+    button_link : "contact/"
+    description: "The Speaker track sponsorships allows you to sponsor one of the presentation rooms at Texas Linux Fest"
+    features:
+    - "Logo placement on signage related to the track"
+    - "Prior to each presentation a short (&lt;&eq;90 seconds) announcement will be read about your organization, products or services"
+
+  - name : "Tote Bag Insert"
+    button_text: "Sponsor a Tote Bag Insert"
+    price : "500"
+    price_per : "Insert"
+    button_link : "contact/"
+    description: "Include a single item in the tote bag received by each attendee. This can also be added to any existing sponsorship for additional tote bag inserts."
+    features:
+    - "Include an item in the tote bag received by all attendees"
+
+
+############### Call to action ############
+call_to_action:
+  enable : true
+  title : "Get Tickets _Now!_"
+  image : "images/speakers/speaker-ticket.png"
+  content : "Register for TXLF2024 today!"
+  button:
+    enable : true
+    label : "Buy tickets"
+    link : "pricing/"
+
+############### Sponsors ##################
+sponsors:
+  enable : true
+  hide_sponsors_on_homepage: true
+  title : "Our _Sponsors_"
+  content : "Our Sponsors allow us to continue to provide conferences!"
+  content_hidden_sponsors: "Our Sponsors allow us to continue to provide conferences!"
+  button:
+    enable : true
+    label : "Become a sponsor"
+    link : "/sponsorship"
+  sponsor_group:
+  - name: "Diamond sponsor"
+    sponsor_item:
+    - name: "sponsor"
+      logo: "images/sponsors/diamond-spon-one.png"
+      link : "/sponsorship"
+  
+  - name : "Platinum Sponsors"
+    sponsor_item:
+    - name : "sponsor"
+      logo : "images/sponsors/pt-spon-two.png"
+      link : "/sponsorship"
+      
+  - name : "Gold Sponsors"
+    sponsor_item:
+    - name : "sponsor"
+      logo : "images/sponsors/gl-spon-two.png"
+      link : "/sponsorship"
+  
+  - name : "Silver Sponsors"
+    sponsor_item:
+    - name : "sponsor"
+      logo : "images/sponsors/sl-spon-one.png"
+      link : "/sponsorship"
+  
+  - name : "Community Sponsors"
+    sponsor_item:
+    - name : "sponsor"
+      logo : "images/sponsors/com-spon-one.png"
+      link : "/sponsorship"
