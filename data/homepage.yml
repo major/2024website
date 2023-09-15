@@ -590,10 +590,10 @@ sponsorship_pricing:
 
   - name : "Community Exhibitor"
     button_text: "I'm interested in being a Community Exhibitor"
-    price : "2500"
+    price : "0"
     price_per : "Sponsor"
     button_link : "contact/"
-    description: "This package is only for non-profits and approved community organizations wishing to support Texas Linux Festival"
+    description: "This package is only for non-profits and approved community organizations wishing to support Texas Linux Festival. Any fiscal contributions are accepted!"
     features:
     - "Logo placement on the website"
     - "10'x10' booth"
