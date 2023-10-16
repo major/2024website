@@ -160,17 +160,26 @@ hasChildren = true
   parent = "Get Involved"
   name = "Register"
   url = "pricing/"
-  
+  weight = 10
+
 
   [[menu.main]]
   parent = "Get Involved"
   name = "Sponsorship"
   url = "sponsorship/"
+  weight = 11
+
+  [[menu.main]]
+  parent = "Get Involved"
+  name = "Sponsors"
+  url = "sponsors/"
+  weight = 12
 
   [[menu.main]]
   parent = "Get Involved"
   name = "Volunteering"
   url = "volunteering/"
+  weight = 13
 
   #[[menu.main]]
   #parent = "Pages"
@@ -200,7 +209,7 @@ hasChildren = true
   url = "https://www.palmereventscenter.com/directions-and-parking/"
   weight = 3
 
-  
+
 [[menu.main]]
 name = "Contact"
 url = "contact/"
@@ -246,7 +255,7 @@ content = "Subscribe to Our Newsletter"
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBDaeWicvigtP9xPv919E-RNoxfvC-Hqik"
-map_latitude = "30.26003875334926" 
+map_latitude = "30.26003875334926"
 map_longitude = "-97.75327281461979"
 map_marker = "images/marker.png"
 name = "Palmer Events Center"

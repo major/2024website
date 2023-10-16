@@ -14,7 +14,7 @@ banner:
     label : "get tickets now"
     link : "pricing/"
 
-    
+
 ################# About ###################
 about:
   enable : true
@@ -32,7 +32,7 @@ about:
     label : "Read more"
     link : "about/"
 
-    
+
 ################# Speaker ###################
 speakers:
   enable : true
@@ -56,7 +56,7 @@ speakers:
   - "Linux in education and academia"
   - "Introduction for new users to Linux, OSS Applications or Free Software"
   content_cfp: "We invite you to be a part of this exceptional event by sharing your expertise and passion with the community. We are seeking engaging and insightful presentations that cover a broad range of topics related to Linux, open-source software, and the wider technology ecosystem. Whether you have hands-on experience, a new research breakthrough, or an inspiring vision for the future of Linux, we want to hear from you!"
- 
+
   # speaker items are coming from "content/speakers" folder
 
 ###################### Tab ####################
@@ -84,28 +84,28 @@ tab:
       subject : "Track 1"
       venue : "Room A"
       time : "10:00 AM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Track 2"
       venue : "Room B"
       time : "10:00 AM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Track 3"
       venue : "Room C"
       time : "10:00 AM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Track 4"
       venue : "Room D"
       time : "10:00 AM"
-    
+
     ## 11:00 am
 
     # speaker
@@ -114,28 +114,28 @@ tab:
       subject : "Track 1"
       venue : "Room A"
       time : "11:00 AM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Track 2"
       venue : "Room B"
       time : "11:00 AM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Track 3"
       venue : "Room C"
       time : "11:00 AM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Track 4"
       venue : "Room D"
       time : "11:00 AM"
-    
+
     # 12:00 pm
 
     ## 10:00 am
@@ -146,7 +146,7 @@ tab:
       subject : "Lunch"
       venue : "Offsite"
       time : "12:00 PM"
-      
+
     ## 1:00 pm
 
     # speaker
@@ -155,28 +155,28 @@ tab:
       subject : "Track 1"
       venue : "Room A"
       time : "1:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Track 2"
       venue : "Room B"
       time : "1:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Track 3"
       venue : "Room C"
       time : "1:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Track 4"
       venue : "Room D"
       time : "1:00 PM"
-    
+
 
     ## 2:00 pm
 
@@ -186,28 +186,28 @@ tab:
       subject : "Track 1"
       venue : "Room A"
       time : "2:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Track 2"
       venue : "Room B"
       time : "2:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Track 3"
       venue : "Room C"
       time : "2:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Track 4"
       venue : "Room D"
       time : "2:00 PM"
-    
+
     ## 3:00 pm
 
     # speaker
@@ -216,28 +216,28 @@ tab:
       subject : "Track 1"
       venue : "Room A"
       time : "3:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Track 2"
       venue : "Room B"
       time : "3:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Track 3"
       venue : "Room C"
       time : "3:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Track 4"
       venue : "Room D"
       time : "3:00 PM"
-    
+
     ## 4:00 pm
 
     # speaker
@@ -246,28 +246,28 @@ tab:
       subject : "Track 1"
       venue : "Room A"
       time : "4:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Track 2"
       venue : "Room B"
       time : "4:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Track 3"
       venue : "Room C"
       time : "4:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Track 4"
       venue : "Room D"
       time : "4:00 PM"
-      
+
   # tab item
   - name : "Day-02"
     date : "13 April 2024"
@@ -287,28 +287,28 @@ tab:
       subject : "Track 1"
       venue : "Room A"
       time : "10:00 AM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Track 2"
       venue : "Room B"
       time : "10:00 AM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Track 3"
       venue : "Room C"
       time : "10:00 AM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Track 4"
       venue : "Room D"
       time : "10:00 AM"
-    
+
     ## 11:00 am
 
     # speaker
@@ -317,28 +317,28 @@ tab:
       subject : "Track 1"
       venue : "Room A"
       time : "11:00 AM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Track 2"
       venue : "Room B"
       time : "11:00 AM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Track 3"
       venue : "Room C"
       time : "11:00 AM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Track 4"
       venue : "Room D"
       time : "11:00 AM"
-    
+
     # 12:00 pm
 
     ## 10:00 am
@@ -349,7 +349,7 @@ tab:
       subject : "Lunch"
       venue : "Offsite"
       time : "12:00 PM"
-      
+
     ## 1:00 pm
 
     # speaker
@@ -358,28 +358,28 @@ tab:
       subject : "Track 1"
       venue : "Room A"
       time : "1:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Track 2"
       venue : "Room B"
       time : "1:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Track 3"
       venue : "Room C"
       time : "1:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Track 4"
       venue : "Room D"
       time : "1:00 PM"
-    
+
 
     ## 2:00 pm
 
@@ -389,28 +389,28 @@ tab:
       subject : "Track 1"
       venue : "Room A"
       time : "2:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Track 2"
       venue : "Room B"
       time : "2:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Track 3"
       venue : "Room C"
       time : "2:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Track 4"
       venue : "Room D"
       time : "2:00 PM"
-    
+
     ## 3:00 pm
 
     # speaker
@@ -419,28 +419,28 @@ tab:
       subject : "Track 1"
       venue : "Room A"
       time : "3:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Track 2"
       venue : "Room B"
       time : "3:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Track 3"
       venue : "Room C"
       time : "3:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Track 4"
       venue : "Room D"
       time : "3:00 PM"
-    
+
     ## 4:00 pm
 
     # speaker
@@ -449,21 +449,21 @@ tab:
       subject : "Track 1"
       venue : "Room A"
       time : "4:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Track 2"
       venue : "Room B"
       time : "4:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Track 3"
       venue : "Room C"
       time : "4:00 PM"
-      
+
     # speaker
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
@@ -484,13 +484,13 @@ registration:
   funfacts:
   - name : "15 Speakers"
     icon : "fa-microphone"
-    
+
   - name : "350 + Seats"
     icon : "fa-flag"
-    
+
   - name : "350 tickets"
     icon : "fa-ticket"
-    
+
   - name : "2 day event"
     icon : "fa-calendar"
 
@@ -510,7 +510,7 @@ pricing:
     features:
     - "Full Access to the event"
     - "Helps make TXLF possible!"
-  
+
   #- name : "Enthusiast"
   #  price : "75.00"
   #  price_per : "Person"
@@ -518,7 +518,7 @@ pricing:
   #  features:
   #  - "Full Access to the event"
   #  - "Helps make TXLF possible!"
-  #  
+  #
   #- name : "Supporter"
   #  price : "100.00"
   #  price_per : "Person"
@@ -533,11 +533,12 @@ sponsorship_pricing:
   title : "_Sponsor Us_"
   content : "Sponsorship Prospectus Pricing for Texas Linux Festival 2024"
   pricing_table:
-  - name : "Diamond <small>(only one available)</small>"
-    button_text: "Be our key Diamond Sponsor!"
+  - name: |
+      Diamond <small>(Thanks <a href="/sponsors/scinary">Scinary</a>!)</small>
+    button_text: "Thanks to Scinary for being our Diamond Sponsor!"
     price : "8000"
     price_per : "Sponsor"
-    button_link : "contact/"
+    button_link : "sponsors/scinary"
     description: "The Diamond Sponsorship package provides your organization with top level visibility at the Texas Linux Fest. This exclusive package will demonstrate your organization’s leadership role in the Linux and open-source community."
     features:
     - "Two (2) page color ad in the conference program"
@@ -549,7 +550,7 @@ sponsorship_pricing:
     - "First choice of booth location"
     - "First opportunity to host a conference reception"
     - "Helps make TXLF possible!"
-    
+
   - name : "Platinum"
     price : "6500"
     price_per : "Sponsor"
@@ -642,7 +643,7 @@ call_to_action:
 ############### Sponsors ##################
 sponsors:
   enable : true
-  hide_sponsors_on_homepage: true
+  hide_sponsors_on_homepage: false
   title : "Our _Sponsors_"
   content : "Our Sponsors allow us to continue to provide conferences!"
   content_hidden_sponsors: "Our Sponsors allow us to continue to provide conferences!"
@@ -653,30 +654,30 @@ sponsors:
   sponsor_group:
   - name: "Diamond sponsor"
     sponsor_item:
-    - name: "sponsor"
+    - name: "Scinary Cybersecurity"
       logo: "images/sponsors/diamond-spon-one.png"
-      link : "/sponsorship"
-  
-  - name : "Platinum Sponsors"
-    sponsor_item:
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-two.png"
-      link : "/sponsorship"
-      
-  - name : "Gold Sponsors"
-    sponsor_item:
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-two.png"
-      link : "/sponsorship"
-  
-  - name : "Silver Sponsors"
-    sponsor_item:
-    - name : "sponsor"
-      logo : "images/sponsors/sl-spon-one.png"
-      link : "/sponsorship"
-  
-  - name : "Community Sponsors"
-    sponsor_item:
-    - name : "sponsor"
-      logo : "images/sponsors/com-spon-one.png"
-      link : "/sponsorship"
+      link : "/sponsors/scinary"
+
+  #- name : "Platinum Sponsors"
+  #  sponsor_item:
+  #  - name : "sponsor"
+  #    logo : "images/sponsors/pt-spon-two.png"
+  #    link : "/sponsorship"
+
+  #- name : "Gold Sponsors"
+  #  sponsor_item:
+  #  - name : "sponsor"
+  #    logo : "images/sponsors/gl-spon-two.png"
+  #    link : "/sponsorship"
+
+  #- name : "Silver Sponsors"
+  #  sponsor_item:
+  #  - name : "sponsor"
+  #    logo : "images/sponsors/sl-spon-one.png"
+  #    link : "/sponsorship"
+
+  #- name : "Community Sponsors"
+  #  sponsor_item:
+  #  - name : "sponsor"
+  #    logo : "images/sponsors/com-spon-one.png"
+  #    link : "/sponsorship"

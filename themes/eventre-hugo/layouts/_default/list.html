@@ -58,7 +58,9 @@
 
 <!-- regular page -->
 {{ else }}
+{{ if not .Params.Ignore_header }}
 {{ partial "page-header.html" . }}
+{{ end }}
 <section class="section">
   <div class="container">
     <div class="row">
