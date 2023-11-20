@@ -240,7 +240,7 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 label = "Buy Ticket"
 icon = "images/icon/ticket.png"
-link = "contact/"
+link = "https://register.linuxfests.org/reg6/"
 
 # Subscription
 [params.subscription]
