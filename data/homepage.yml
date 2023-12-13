@@ -664,11 +664,12 @@ sponsors:
   #    logo : "images/sponsors/pt-spon-two.png"
   #    link : "/sponsorship"
 
-  #- name : "Gold Sponsors"
-  #  sponsor_item:
-  #  - name : "sponsor"
-  #    logo : "images/sponsors/gl-spon-two.png"
-  #    link : "/sponsorship"
+  - name : "Gold Sponsors"
+    sponsor_item:
+      - name : "redhat"
+        logo : "images/sponsors/redhat.svg"
+      - name: "elastic"
+        logo: "images/sponsors/elastic.svg"
 
   #- name : "Silver Sponsors"
   #  sponsor_item:
@@ -681,3 +682,7 @@ sponsors:
   #  - name : "sponsor"
   #    logo : "images/sponsors/com-spon-one.png"
   #    link : "/sponsorship"
+  - name: "Track Sponsors"
+    sponsor_item:
+      - name: "Civo"
+        logo: "images/sponsors/civo.svg"
