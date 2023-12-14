@@ -617,7 +617,7 @@ sponsorship_pricing:
     description: "The Speaker track sponsorships allows you to sponsor one of the presentation rooms at Texas Linux Fest"
     features:
     - "Logo placement on signage related to the track"
-    - "Prior to each presentation a short (&lt;&eq;90 seconds) announcement will be read about your organization, products or services"
+    - "Prior to each presentation a short (≤90 seconds) announcement will be read about your organization, products or services"
 
   - name : "Tote Bag Insert"
     button_text: "Sponsor a Tote Bag Insert"
