@@ -670,6 +670,8 @@ sponsors:
         logo : "images/sponsors/redhat.svg"
       - name: "elastic"
         logo: "images/sponsors/elastic.svg"
+      - name: "rocky-linux"
+        logo: "images/sponsors/rocky-linux.png"
 
   #- name : "Silver Sponsors"
   #  sponsor_item:
