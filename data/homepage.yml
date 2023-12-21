@@ -694,3 +694,9 @@ sponsors:
       - name: "Free Software Foundation"
         logo: "images/sponsors/fsf.png"
         link: "https://fsf.org"
+
+  - name: "Media"
+    sponsor_item:
+      - name: "Jupiter Broadcasting"
+        logo: "images/sponsors/jupiterbroadcasting.png"
+        link: "https://jupiterbroadcasting.com"
