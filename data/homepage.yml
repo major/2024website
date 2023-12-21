@@ -688,3 +688,9 @@ sponsors:
     sponsor_item:
       - name: "Civo"
         logo: "images/sponsors/civo.svg"
+
+  - name: "Exhibitors"
+    sponsor_item:
+      - name: "Free Software Foundation"
+        logo: "images/sponsors/fsf.png"
+        link: "https://fsf.org"
