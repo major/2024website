@@ -700,3 +700,7 @@ sponsors:
       - name: "Jupiter Broadcasting"
         logo: "images/sponsors/jupiterbroadcasting.png"
         link: "https://jupiterbroadcasting.com"
+    sponsor_item:
+      - name: "Kube Events"
+        logo: "images/sponsors/kube-events.svg"
+        link: "https://kube.events"
