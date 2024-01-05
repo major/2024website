@@ -695,7 +695,7 @@ sponsors:
         logo: "images/sponsors/fsf.png"
         link: "https://fsf.org"
 
-  - name: "Media"
+  - name: "Media & Swag"
     sponsor_item:
       - name: "Jupiter Broadcasting"
         logo: "images/sponsors/jupiterbroadcasting.png"
@@ -703,3 +703,6 @@ sponsors:
       - name: "Kube Events"
         logo: "images/sponsors/kube-events.svg"
         link: "https://kube.events"
+      - name: "Sticker Mule"
+        logo: "images/sponsors/sticker-mule.svg"
+        link: "https://mule.to/p5mk"
