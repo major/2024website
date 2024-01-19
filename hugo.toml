@@ -119,7 +119,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "About TXLF"
-  name = "What is TXLF"
+  name = "What is TXLF?"
   url = "about/"
   weight = 1
 
