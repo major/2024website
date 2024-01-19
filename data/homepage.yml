@@ -531,7 +531,7 @@ pricing:
 sponsorship_pricing:
   enable : true
   title : "_Sponsor Us_"
-  content : "Sponsorship Prospectus Pricing for Texas Linux Festival 2024"
+  content : "Sponsorship Prospectus Pricing for Texas Linux Festival 2024. Now includes sponsorship of Kubernetes Community Days Texas! With KCD Texas being co-located sponsorships include both events (what a deal!)."
   pricing_table:
   - name: |
       Diamond <small>(Thanks <a href="/sponsors/scinary">Scinary</a>!)</small>
@@ -549,6 +549,7 @@ sponsorship_pricing:
     - "First logo listing on website"
     - "First choice of booth location"
     - "First opportunity to host a conference reception"
+    - "Includes sponsorship of KCD Texas"
     - "Helps make TXLF possible!"
 
   - name : "Platinum"
@@ -563,6 +564,7 @@ sponsorship_pricing:
     - "30'x10' booth"
     - "Full day vendor tutorial/workshop slot"
     - "Option for Tote Bag Insert"
+    - "Includes sponsorship of KCD Texas"
     - "Helps make TXLF possible!"
 
   - name : "Gold"
@@ -576,6 +578,7 @@ sponsorship_pricing:
     - "20'x10' booth"
     - "Half day vendor tutorial/workshop slot"
     - "Option for Tote Bag Insert"
+    - "Includes sponsorship of KCD Texas"
     - "Helps make TXLF possible!"
 
   - name : "Silver"
@@ -587,6 +590,7 @@ sponsorship_pricing:
     - "Quarter page ad in the conference program"
     - "Logo placement on the website"
     - "10'x10' booth"
+    - "Includes sponsorship of KCD Texas"
     - "Helps make TXLF possible!"
 
   - name : "Community Exhibitor"
@@ -594,7 +598,7 @@ sponsorship_pricing:
     price : "0"
     price_per : "Sponsor"
     button_link : "contact/"
-    description: "This package is only for non-profits and approved community organizations wishing to support Texas Linux Festival. Any fiscal contributions are accepted!"
+    description: "This package is only for non-profits and approved community organizations wishing to support Texas Linux Festival. It is expected that all people running the booth would be volunteers. Any fiscal contributions are accepted!"
     features:
     - "Logo placement on the website"
     - "10'x10' booth"
