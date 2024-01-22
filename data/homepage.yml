@@ -35,12 +35,12 @@ about:
 
 ################# Speaker ###################
 speakers:
-  enable : true
-  cfp_open: true
+  enable : false
+  cfp_open: false
   cfp_link: https://www.papercall.io/txlf2024
   cfp_label: "Submit a talk to our _Call For Papers_"
   title : "Who is _Speaking?_"
-  title_cfp: "Our _Call for Papers_ is Open!"
+  title_cfp: "Our _Call for Papers_ is Closed!"
   content : "Check out our speakers lined up!"
   content_cfp_topics:
   - "Linux kernel and system development"
@@ -61,7 +61,7 @@ speakers:
 
 ###################### Tab ####################
 tab:
-  enable : true
+  enable : false
   title : "Event Schedule"
   content : "The _[Call For Papers](https://www.papercall.io/txlf2024)_ is open!"
   tablist:
