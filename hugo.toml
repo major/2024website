@@ -98,10 +98,6 @@ attributes = ""
 [[params.plugins.js]]
 link = "plugins/syotimer/syotimer.min.js"
 attributes = ""
-[[params.plugins.js]]
-link = "plugins/google-map/gmap.js"
-attributes = ""
-
 
 ####################### navigation ##########################
 
@@ -256,18 +252,6 @@ content = "Subscribe to Our Newsletter"
 # mailchimp subsciption
 #mailchimp_form_action = "....link..." # replace this url with yours
 #mailchimp_form_name = "...." # replace this code with yours
-
-# google map
-[params.map]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBDaeWicvigtP9xPv919E-RNoxfvC-Hqik"
-map_latitude = "30.26003875334926"
-map_longitude = "-97.75327281461979"
-map_marker = "images/marker.png"
-name = "Palmer Events Center"
-location = "900 Barton Springs Road, <br>Austin, TX."
-# phone = "[00] 000 000 000"
-link = "http://www.palmereventscenter.com/"
 
 # cookies
 [params.cookies]
