@@ -255,7 +255,7 @@ content = "Subscribe to Our Newsletter"
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 30
 
 ############################# social site ########################
