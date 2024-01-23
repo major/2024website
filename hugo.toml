@@ -131,12 +131,6 @@ hasChildren = true
   url = "faq/"
   weight = 3
 
-  [[menu.main]]
-  parent = "About TXLF"
-  name = "About KCD Texas"
-  url = "https://community.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-2024/"
-  weight = 4
-
 # uncomment when call for papers is closed
 #[[menu.main]]
 #name = "Speaker"
@@ -189,8 +183,19 @@ hasChildren = true
   #url = "testimonial/"
 
 [[menu.main]]
+name = "Co-Located Events"
+weight = 60
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Co-Located Events"
+  name = "Kubernetes Community Days"
+  url = "kcd/"
+  weight = 10
+
+[[menu.main]]
 name = "Venue"
-weight = 6
+weight = 70
 hasChildren = true
 
   [[menu.main]]
@@ -215,7 +220,7 @@ hasChildren = true
 [[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 7
+weight = 80
 
 
 
