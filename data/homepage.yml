@@ -677,11 +677,11 @@ sponsors:
       - name: "rocky-linux"
         logo: "images/sponsors/rocky-linux.png"
 
-  #- name : "Silver Sponsors"
-  #  sponsor_item:
-  #  - name : "sponsor"
-  #    logo : "images/sponsors/sl-spon-one.png"
-  #    link : "/sponsorship"
+  - name : "Silver Sponsors"
+    sponsor_item:
+      - name : "SVA"
+        logo : "images/sponsors/SVASoftware_Logo_4C.png"
+        link: "/sponsors/sva-software"
 
   #- name : "Community Sponsors"
   #  sponsor_item:

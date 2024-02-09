@@ -8,7 +8,7 @@ layout: "single"
 ignore_header: true
 ---
 
-## We'd like to thank our Diamond Sponsor _Scinary Cybersecurity_!_
+## We'd like to thank our Diamond Sponsor _Scinary Cybersecurity_
 
 [![Scinary Cybersecurity](/images/sponsors/diamond-spon-one-large.png)](https://www.scinary.com/)
 <br /><br />
