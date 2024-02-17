@@ -321,9 +321,9 @@ tab:
 
     ## 4:30 PM
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Neal Gompa"
+      speaker_image : "images/speakers/neal-gompa-thumb.png"
+      subject : "Bringing Fedora Linux to Apple Silicon Macs with Asahi Linux"
       venue : "Room 1"
       time : "4:30 PM - 5:15 PM"
 
