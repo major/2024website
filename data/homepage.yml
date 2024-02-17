@@ -250,9 +250,9 @@ tab:
       venue : "Room 3"
       time : "12:00 PM - 12:45 PM"
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Fred Lawler"
+      speaker_image : "images/speakers/fred-lawler-thumb.jpg"
+      subject : "connect() - why you so slow?!"
       venue : "Room 4"
       time : "12:00 PM - 12:45 PM"
 
