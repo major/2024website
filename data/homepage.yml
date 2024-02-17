@@ -295,9 +295,9 @@ tab:
 
     ## 3:30 PM
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Carl George"
+      speaker_image : "images/speakers/carl-george-thumb.png"
+      subject : "The Hitchhiker's Guide to the RHEL ecosystem"
       venue : "Room 1"
       time : "3:30 PM - 4:15 PM"
 
