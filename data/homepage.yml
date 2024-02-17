@@ -339,9 +339,9 @@ tab:
       venue : "Room 3"
       time : "4:30 PM - 5:15 PM"
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Alex Kretzschmar"
+      speaker_image : "images/speakers/alex-kretzschmar-thumb.jpg"
+      subject : "Access self-hosted services securely from anywhere"
       venue : "Room 4"
       time : "4:30 PM - 5:15 PM"
 
