@@ -206,9 +206,9 @@ tab:
 
     ## 11:00 AM
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Robert Callicotte"
+      speaker_image : "images/speakers/robert-callicotte-thumb.jpg"
+      subject : "Running CentOS Stream in Production"
       venue : "Room 1"
       time : "11:00 AM - 11:45 AM"
 
