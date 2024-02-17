@@ -61,415 +61,298 @@ speakers:
 
 ###################### Tab ####################
 tab:
-  enable : false
+  enable : true
   title : "Event Schedule"
-  content : "The _[Call For Papers](https://www.papercall.io/txlf2024)_ is open!"
+  #content : "The _[Call For Papers](https://www.papercall.io/txlf2024)_ is open!"
   tablist:
   # tab item
-  - name : "Day-01"
-    date : "12 April 2024"
+  - name : "Day 1"
+    date : "April 12"
     tablist_items:
-    # speaker
+
+    ## 9:00 AM
+
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Keynote"
-      venue : "Auditorium A"
-      time : "9:00 AM"
+      subject : "Diamond sponsor workshop"
+      venue : "Room 1"
+      time : "9:00 AM - 11:45 AM"
 
-    ## 10:00 am
-
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Track 1"
-      venue : "Room A"
-      time : "10:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Platinum sponsor workshop"
+      venue : "Room 2"
+      time : "9:00 AM - 11:45 AM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Track 2"
-      venue : "Room B"
-      time : "10:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Gold sponsor workshop"
+      venue : "Room 3"
+      time : "9:00 AM - 11:45 AM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Track 3"
-      venue : "Room C"
-      time : "10:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Kubernetes Community Days"
+      venue : "Room 4"
+      time : "9:00 AM - 11:45 AM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Track 4"
-      venue : "Room D"
-      time : "10:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Kubernetes Community Days"
+      venue : "Room 5"
+      time : "9:00 AM - 11:45 AM"
 
-    ## 11:00 am
+    ## 12:00 PM
 
-    # speaker
+    - subject : "Lunch"
+      time : "12:00 PM - 1:30 PM"
+
+    ## 1:30 PM
+
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Track 1"
-      venue : "Room A"
-      time : "11:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Diamond sponsor workshop"
+      venue : "Room 1"
+      time : "1:30 PM - 4:15 PM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Track 2"
-      venue : "Room B"
-      time : "11:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Platinum sponsor workshop"
+      venue : "Room 2"
+      time : "1:30 PM - 4:15 PM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Track 3"
-      venue : "Room C"
-      time : "11:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Gold sponsor workshop"
+      venue : "Room 3"
+      time : "1:30 PM - 4:15 PM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Track 4"
-      venue : "Room D"
-      time : "11:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Kubernetes Community Days"
+      venue : "Room 4"
+      time : "1:30 PM - 5:45 PM"
 
-    # 12:00 pm
-
-    ## 10:00 am
-
-    # speaker
-    - speaker : "None"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Lunch"
-      venue : "Offsite"
-      time : "12:00 PM"
-
-    ## 1:00 pm
-
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Track 1"
-      venue : "Room A"
-      time : "1:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Kubernetes Community Days"
+      venue : "Room 5"
+      time : "1:30 PM - 5:45 PM"
 
-    # speaker
+    ## 4:30 PM
+
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Track 2"
-      venue : "Room B"
-      time : "1:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "workshop"
+      venue : "Room 1"
+      time : "4:30 PM - 5:45 PM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Track 3"
-      venue : "Room C"
-      time : "1:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "workshop"
+      venue : "Room 2"
+      time : "4:30 PM - 5:45 PM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Track 4"
-      venue : "Room D"
-      time : "1:00 PM"
-
-
-    ## 2:00 pm
-
-    # speaker
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Track 1"
-      venue : "Room A"
-      time : "2:00 PM"
-
-    # speaker
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Track 2"
-      venue : "Room B"
-      time : "2:00 PM"
-
-    # speaker
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Track 3"
-      venue : "Room C"
-      time : "2:00 PM"
-
-    # speaker
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Track 4"
-      venue : "Room D"
-      time : "2:00 PM"
-
-    ## 3:00 pm
-
-    # speaker
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Track 1"
-      venue : "Room A"
-      time : "3:00 PM"
-
-    # speaker
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Track 2"
-      venue : "Room B"
-      time : "3:00 PM"
-
-    # speaker
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Track 3"
-      venue : "Room C"
-      time : "3:00 PM"
-
-    # speaker
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Track 4"
-      venue : "Room D"
-      time : "3:00 PM"
-
-    ## 4:00 pm
-
-    # speaker
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Track 1"
-      venue : "Room A"
-      time : "4:00 PM"
-
-    # speaker
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Track 2"
-      venue : "Room B"
-      time : "4:00 PM"
-
-    # speaker
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Track 3"
-      venue : "Room C"
-      time : "4:00 PM"
-
-    # speaker
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Track 4"
-      venue : "Room D"
-      time : "4:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "workshop"
+      venue : "Room 3"
+      time : "4:30 PM - 5:45 PM"
 
   # tab item
-  - name : "Day-02"
-    date : "13 April 2024"
+  - name : "Day 2"
+    date : "April 13"
     tablist_items:
-    # speaker
+
+    ## 9:00 AM
     - speaker : "TBD"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
       subject : "Keynote"
-      venue : "Auditorium A"
-      time : "9:00 AM"
+      venue : "Exhibit Hall 2"
+      time : "9:00 AM - 9:45 AM"
 
-    ## 10:00 am
+    ## 10:00 AM
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Track 1"
-      venue : "Room A"
-      time : "10:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 1"
+      time : "10:00 AM - 10:45 AM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Track 2"
-      venue : "Room B"
-      time : "10:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 2"
+      time : "10:00 AM - 10:45 AM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Track 3"
-      venue : "Room C"
-      time : "10:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 3"
+      time : "10:00 AM - 10:45 AM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Track 4"
-      venue : "Room D"
-      time : "10:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 4"
+      time : "10:00 AM - 10:45 AM"
 
-    ## 11:00 am
-
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Track 1"
-      venue : "Room A"
-      time : "11:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Gold sponsor workshop"
+      venue : "Room 5"
+      time : "10:00 AM - 12:45 PM"
 
-    # speaker
+    ## 11:00 AM
+
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Track 2"
-      venue : "Room B"
-      time : "11:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 1"
+      time : "11:00 AM - 11:45 AM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Track 3"
-      venue : "Room C"
-      time : "11:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 2"
+      time : "11:00 AM - 11:45 AM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Track 4"
-      venue : "Room D"
-      time : "11:00 AM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 3"
+      time : "11:00 AM - 11:45 AM"
 
-    # 12:00 pm
-
-    ## 10:00 am
-
-    # speaker
-    - speaker : "None"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Lunch"
-      venue : "Offsite"
-      time : "12:00 PM"
-
-    ## 1:00 pm
-
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Track 1"
-      venue : "Room A"
-      time : "1:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 4"
+      time : "11:00 AM - 11:45 AM"
 
-    # speaker
+    ## 12:00 PM
+
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Track 2"
-      venue : "Room B"
-      time : "1:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 1"
+      time : "12:00 PM - 12:45 PM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Track 3"
-      venue : "Room C"
-      time : "1:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 2"
+      time : "12:00 PM - 12:45 PM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Track 4"
-      venue : "Room D"
-      time : "1:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 3"
+      time : "12:00 PM - 12:45 PM"
 
-
-    ## 2:00 pm
-
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Track 1"
-      venue : "Room A"
-      time : "2:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 4"
+      time : "12:00 PM - 12:45 PM"
 
-    # speaker
+    ## 1:00 PM
+
+    - subject : "Lunch"
+      time : "1:00 PM - 2:30 PM"
+
+    ## 2:30 PM
+
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Track 2"
-      venue : "Room B"
-      time : "2:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 1"
+      time : "2:30 PM - 3:15 PM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Track 3"
-      venue : "Room C"
-      time : "2:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 2"
+      time : "2:30 PM - 3:15 PM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Track 4"
-      venue : "Room D"
-      time : "2:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 3"
+      time : "2:30 PM - 3:15 PM"
 
-    ## 3:00 pm
-
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Track 1"
-      venue : "Room A"
-      time : "3:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 4"
+      time : "2:30 PM - 3:15 PM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Track 2"
-      venue : "Room B"
-      time : "3:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Gold sponsor workshop"
+      venue : "Room 5"
+      time : "2:30 AM - 5:15 PM"
 
-    # speaker
+    ## 3:30 PM
+
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Track 3"
-      venue : "Room C"
-      time : "3:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 1"
+      time : "3:30 PM - 4:15 PM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Track 4"
-      venue : "Room D"
-      time : "3:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 2"
+      time : "3:30 PM - 4:15 PM"
 
-    ## 4:00 pm
-
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Track 1"
-      venue : "Room A"
-      time : "4:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 3"
+      time : "3:30 PM - 4:15 PM"
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Track 2"
-      venue : "Room B"
-      time : "4:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 4"
+      time : "3:30 PM - 4:15 PM"
 
-    # speaker
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Track 3"
-      venue : "Room C"
-      time : "4:00 PM"
+    ## 4:30 PM
 
-    # speaker
     - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Track 4"
-      venue : "Room D"
-      time : "4:00 PM"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 1"
+      time : "4:30 AM - 5:15 PM"
+
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 2"
+      time : "4:30 AM - 5:15 PM"
+
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 3"
+      time : "4:30 AM - 5:15 PM"
+
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "talk"
+      venue : "Room 4"
+      time : "4:30 AM - 5:15 PM"
+
+    ## 5:30 PM
+
+    - subject : "Raffle"
+      time : "5:30 PM - 6:00 PM"
+
+    ## 6:00 PM
+
+    - subject : "Lightning talks"
+      time : "6:00 PM - 6:30 PM"
 
 ############ Registration ####################
 registration:
