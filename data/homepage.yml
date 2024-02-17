@@ -238,9 +238,9 @@ tab:
       venue : "Room 1"
       time : "12:00 PM - 12:45 PM"
 
-    - speaker : "TBD"
+    - speaker : "Alexander Rubin"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+      subject : "Pen-testing opensource databases (MySQL and PostgreSQL)"
       venue : "Room 2"
       time : "12:00 PM - 12:45 PM"
 
