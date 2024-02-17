@@ -180,9 +180,9 @@ tab:
       venue : "Room 1"
       time : "10:00 AM - 10:45 AM"
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Alejandro Duarte"
+      speaker_image : "images/speakers/alejandro-duarte-thumb.jpg"
+      subject : "The MariaDB Evolution: Just a fork of MySQL?"
       venue : "Room 2"
       time : "10:00 AM - 10:45 AM"
 
