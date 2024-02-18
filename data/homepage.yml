@@ -313,9 +313,9 @@ tab:
       venue : "Room 3"
       time : "3:30 PM - 4:15 PM"
 
-    - speaker : "TBD"
+    - speaker : "Michael Yuan"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+      subject : "Run LLMs on all your Linux IoT devices"
       venue : "Room 4"
       time : "3:30 PM - 4:15 PM"
 
