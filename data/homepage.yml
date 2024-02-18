@@ -269,9 +269,9 @@ tab:
       venue : "Room 1"
       time : "2:30 PM - 3:15 PM"
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Frank Karlitschek"
+      speaker_image : "images/speakers/frank-karlitschek-thumb.jpg"
+      subject : "What the AI revolution means for Open Source, Open Tech and Open Societies"
       venue : "Room 2"
       time : "2:30 PM - 3:15 PM"
 
