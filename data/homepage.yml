@@ -224,9 +224,9 @@ tab:
       venue : "Room 3"
       time : "11:00 AM - 11:45 AM"
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Paul Novarese"
+      speaker_image : "images/speakers/paul-novarese-thumb.jpg"
+      subject : "The Legacy of Log4Shell and the Future of DevSecOps"
       venue : "Room 4"
       time : "11:00 AM - 11:45 AM"
 
