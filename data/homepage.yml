@@ -232,9 +232,9 @@ tab:
 
     ## 12:00 PM
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Thomas Cameron"
+      speaker_image : "images/speakers/thomas-cameron-thumb.jpg"
+      subject : "Enterprise Automation with AWX (upstream for Ansible Automation Platform)"
       venue : "Room 1"
       time : "12:00 PM - 12:45 PM"
 
