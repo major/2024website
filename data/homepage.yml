@@ -147,9 +147,9 @@ tab:
       venue : "Room 1"
       time : "4:30 PM - 5:45 PM"
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "workshop"
+    - speaker : "David Stokes"
+      speaker_image : "images/speakers/david-stokes-thumb.jpg"
+      subject : "PostgreSQL For MySQL DBAs"
       venue : "Room 2"
       time : "4:30 PM - 5:45 PM"
 
