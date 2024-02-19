@@ -153,9 +153,9 @@ tab:
       venue : "Room 2"
       time : "4:30 PM - 5:45 PM"
 
-    - speaker : "TBD"
+    - speaker : "Oluebube Princess Egbuna"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "workshop"
+      subject : "Mastering Cluster API and GitOps: A Deep Dive into Extensible Components for Building Production-Ready Kubernetes Clusters"
       venue : "Room 3"
       time : "4:30 PM - 5:45 PM"
 
