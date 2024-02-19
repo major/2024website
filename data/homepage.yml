@@ -301,9 +301,9 @@ tab:
       venue : "Room 1"
       time : "3:30 PM - 4:15 PM"
 
-    - speaker : "TBD"
+    - speaker : "Caleb Schoepp"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+      subject : "What Actually Is WebAssembly: Taking a Look Under the Hood"
       venue : "Room 2"
       time : "3:30 PM - 4:15 PM"
 
