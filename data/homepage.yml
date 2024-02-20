@@ -307,9 +307,9 @@ tab:
       venue : "Room 2"
       time : "3:30 PM - 4:15 PM"
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Federico Fregosi"
+      speaker_image : "images/speakers/federico-fregosi-thumb.jpg"
+      subject : "Containers in the cloud - State of the Art in 2024"
       venue : "Room 3"
       time : "3:30 PM - 4:15 PM"
 
