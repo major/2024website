@@ -174,9 +174,9 @@ tab:
 
     ## 10:00 AM
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "David Duncan"
+      speaker_image : "images/speakers/david-duncan-thumb.jpg"
+      subject : "Building a Fedora KDE image for use with Public Cloud Providers"
       venue : "Room 1"
       time : "10:00 AM - 10:45 AM"
 
