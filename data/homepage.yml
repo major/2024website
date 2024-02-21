@@ -327,9 +327,9 @@ tab:
       venue : "Room 1"
       time : "4:30 PM - 5:15 PM"
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Major Hayden"
+      speaker_image : "images/speakers/major-hayden-thumb.png"
+      subject : "Five tips for a thriving technology career"
       venue : "Room 2"
       time : "4:30 PM - 5:15 PM"
 
