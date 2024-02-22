@@ -218,9 +218,9 @@ tab:
       venue : "Room 2"
       time : "11:00 AM - 11:45 AM"
 
-    - speaker : "TBD"
+    - speaker : "Santosh Nikhil Kumar"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+      subject : "Advanced API Design for Scalable and Fault-Tolerant Data-Intensive Distributed Systems"
       venue : "Room 3"
       time : "11:00 AM - 11:45 AM"
 
