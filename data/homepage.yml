@@ -212,9 +212,9 @@ tab:
       venue : "Room 1"
       time : "11:00 AM - 11:45 AM"
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Matthew Boehm"
+      speaker_image : "images/speakers/matthew-boehm-thumb.jpg"
+      subject : "Migrating MySQL to Kubernetes"
       venue : "Room 2"
       time : "11:00 AM - 11:45 AM"
 
