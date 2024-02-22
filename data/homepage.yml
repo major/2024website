@@ -333,9 +333,9 @@ tab:
       venue : "Room 2"
       time : "4:30 PM - 5:15 PM"
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Chris Stackpole"
+      speaker_image : "images/speakers/chris-stackpole-thumb.jpg"
+      subject : "Find Your Way to Open Source Contribution with OpenStreetMap"
       venue : "Room 3"
       time : "4:30 PM - 5:15 PM"
 
