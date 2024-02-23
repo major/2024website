@@ -244,9 +244,9 @@ tab:
       venue : "Room 2"
       time : "12:00 PM - 12:45 PM"
 
-    - speaker : "TBD"
+    - speaker : "Talia Nassi"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+      subject : "Cloud Computing 101"
       venue : "Room 3"
       time : "12:00 PM - 12:45 PM"
 
