@@ -186,9 +186,9 @@ tab:
       venue : "Room 2"
       time : "10:00 AM - 10:45 AM"
 
-    - speaker : "TBD"
+    - speaker : "Matt Mullins"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+      subject : "The oldest Linux peripheral"
       venue : "Room 3"
       time : "10:00 AM - 10:45 AM"
 
