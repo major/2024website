@@ -63,7 +63,7 @@ speakers:
 tab:
   enable : true
   title : "Event Schedule"
-  #content : "The _[Call For Papers](https://www.papercall.io/txlf2024)_ is open!"
+  content : "The schedule of events is subject to change without prior notifications."
   tablist:
   # tab item
   - name : "Day 1"
