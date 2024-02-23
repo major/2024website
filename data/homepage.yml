@@ -263,9 +263,9 @@ tab:
 
     ## 2:30 PM
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
+    - speaker : "Elizabeth K. Joseph"
+      speaker_image : "images/speakers/elizabeth-k-joseph-thumb.png"
+      subject : "Why (and how) would you run Linux on the Mainframe?"
       venue : "Room 1"
       time : "2:30 PM - 3:15 PM"
 
