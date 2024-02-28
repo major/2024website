@@ -72,36 +72,6 @@ tab:
 
     ## 9:00 AM
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Diamond sponsor workshop"
-      venue : "Room 1"
-      time : "9:00 AM - 11:45 AM"
-
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Platinum sponsor workshop"
-      venue : "Room 2"
-      time : "9:00 AM - 11:45 AM"
-
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Gold sponsor workshop"
-      venue : "Room 3"
-      time : "9:00 AM - 11:45 AM"
-
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Kubernetes Community Days"
-      venue : "Room 4"
-      time : "9:00 AM - 11:45 AM"
-
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Kubernetes Community Days"
-      venue : "Room 5"
-      time : "9:00 AM - 11:45 AM"
-
     ## 12:00 PM
 
     - subject : "Lunch"
@@ -109,37 +79,7 @@ tab:
 
     ## 1:30 PM
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Diamond sponsor workshop"
-      venue : "Room 1"
-      time : "1:30 PM - 4:15 PM"
-
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Platinum sponsor workshop"
-      venue : "Room 2"
-      time : "1:30 PM - 4:15 PM"
-
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Gold sponsor workshop"
-      venue : "Room 3"
-      time : "1:30 PM - 4:15 PM"
-
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Kubernetes Community Days"
-      venue : "Room 4"
-      time : "1:30 PM - 5:45 PM"
-
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Kubernetes Community Days"
-      venue : "Room 5"
-      time : "1:30 PM - 5:45 PM"
-
-    ## 4:30 PM
+    ## 4:00 PM
 
     - speaker : "Cody Lee Cochran"
       speaker_image : "images/speakers/cody-lee-cochran-thumb.jpg"
@@ -166,12 +106,6 @@ tab:
 
     ## 9:00 AM
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Keynote"
-      venue : "Exhibit Hall 2"
-      time : "9:00 AM - 9:45 AM"
-
     ## 10:00 AM
 
     - speaker : "David Duncan"
@@ -191,18 +125,6 @@ tab:
       subject : "The oldest Linux peripheral"
       venue : "Room 3"
       time : "10:00 AM - 10:45 AM"
-
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
-      venue : "Room 4"
-      time : "10:00 AM - 10:45 AM"
-
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Gold sponsor workshop"
-      venue : "Room 5"
-      time : "10:00 AM - 12:45 PM"
 
     ## 11:00 AM
 
@@ -280,18 +202,6 @@ tab:
       subject : "Container Optimized Linux: The best idea you’re probably not using."
       venue : "Room 3"
       time : "2:30 PM - 3:15 PM"
-
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "talk"
-      venue : "Room 4"
-      time : "2:30 PM - 3:15 PM"
-
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Gold sponsor workshop"
-      venue : "Room 5"
-      time : "2:30 PM - 5:15 PM"
 
     ## 3:30 PM
 
