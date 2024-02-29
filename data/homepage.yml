@@ -72,14 +72,98 @@ tab:
 
     ## 9:00 AM
 
+    - speaker : "Chris Aniszczyk"
+      speaker_image : "images/speakers/chris-aniszczyk-thumb.jpg"
+      subject : "KCD Keynote"
+      venue : "Room 4"
+      time : "9:00 AM - 9:50 AM"
+
+    - speaker : "Matt Butcher"
+      speaker_image : "images/speakers/matt-butcher-thumb.jpg"
+      subject : "Phippy's Field Guide to Wasm"
+      venue : "Room 4"
+      time : "9:50 AM - 10:15 AM"
+
+    - speaker : "Rachel Leekin"
+      speaker_image : "images/speakers/rachel-leekin-thumb.jpg"
+      subject : "Beyond Admission Webhooks"
+      venue : "Room 5"
+      time : "9:50 AM - 10:15 AM"
+
+    ## 10:00 AM
+
+    - speaker : "Miley Fu"
+      speaker_image : "images/speakers/miley-fu-thumb.jpg"
+      subject : "Self-host Portable Open Source LLMs Across Devices & Cloud-Native Environments"
+      venue : "Room 4"
+      time : "10:25 AM - 10:50 AM"
+
+    - speaker : "Bob Walker"
+      speaker_image : "images/speakers/bob-walker-thumb.jpg"
+      subject : "Lessons Learned hosting 1800 customer instances in 8 K8s Clusters"
+      venue : "Room 5"
+      time : "10:25 AM - 10:50 AM"
+
+    ## 11:00 AM
+
+    - speaker : "Jamie Parker"
+      speaker_image : "images/speakers/jamie-parker-thumb.png"
+      subject : "Korell8r - Signal Correlation for Kubernetes and Beyond"
+      venue : "Room 4"
+      time : "11:00 AM - 11:25 AM"
+
+    - speaker : "Steven Borelli"
+      speaker_image : "images/speakers/steven-borrelli-thumb.png"
+      subject : "Crossplane for Platform Engineers"
+      venue : "Room 5"
+      time : "11:00 AM - 11:25 AM"
+
+    - speaker : "Shane Utt"
+      speaker_image : "images/speakers/shane-utt-thumb.jpg"
+      subject : "Kubernetes Networking reImagined"
+      venue : "Room 4"
+      time : "11:35 AM - 12:00 PM"
+
+    - speaker : "Wavell Watson"
+      speaker_image : "images/speakers/wavell-watson-thumb.png"
+      subject : "5g Core Testing with the CNF TestSuite"
+      venue : "Room 5"
+      time : "11:35 AM - 12:00 PM"
+
     ## 12:00 PM
 
     - subject : "Lunch"
       time : "12:00 PM - 1:30 PM"
 
-    ## 1:30 PM
+    ## 1:00 PM
+
+    - speaker : "Angel Ramirez"
+      speaker_image : "images/speakers/angel-ramirez-thumb.png"
+      subject : "Kubernetes Kickstart Boosting Agility with CNCF and DevOps"
+      venue : "Room 5"
+      time : "1:00 PM - 2:30 PM"
+
+    ## 2:00 PM
+
+    - speaker : "Rafa Brito"
+      speaker_image : "images/speakers/rafa-brito-thumb.jpg"
+      subject : "Demystifying Kubernetes Resource Management"
+      venue : "Room 5"
+      time : "2:40 PM - 4:10 PM"
 
     ## 4:00 PM
+
+    - speaker : "Mark Lavi"
+      speaker_image : "images/speakers/mark-lavi-thumb.jpg"
+      subject : "Navig8.dev: a Helm Chart Values Wizard"
+      venue : "Room 4"
+      time : "4:15 PM - 4:20 PM"
+
+    - speaker : "Rajeshkumar Sampathrajan"
+      speaker_image : "images/speakers/rajeshkumar-sampathrajan-thumb.jpg"
+      subject : "Be Up for PCA success"
+      venue : "Room 4"
+      time : "4:15 PM - 4:20 PM"
 
     - speaker : "Cody Lee Cochran"
       speaker_image : "images/speakers/cody-lee-cochran-thumb.jpg"
