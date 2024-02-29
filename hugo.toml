@@ -137,10 +137,10 @@ hasChildren = true
 #url = "speaker/"
 #weight = 3
 
-#[[menu.main]]
-#name = "Schedule"
-#url = "schedule/"
-#weight = 4
+[[menu.main]]
+name = "Schedule"
+url = "schedule/"
+weight = 4
 
 [[menu.main]]
 weight = 5
