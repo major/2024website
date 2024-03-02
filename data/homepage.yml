@@ -583,6 +583,9 @@ sponsors:
         logo: "images/sponsors/fsf.png"
         link: "https://fsf.org"
 
+      - name: "RISC-V"
+        logo: "images/sponsors/risc-v.webp"
+
   - name: "Media & Swag"
     sponsor_item:
       - name: "Jupiter Broadcasting"
