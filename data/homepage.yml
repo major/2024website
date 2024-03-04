@@ -80,6 +80,11 @@ tab:
       subject: "KCD Keynote: Container Growth & The Need for Vendor Neutral Container Specifications"
       venue : "Exhibit Hall 2"
       time : "9:00 AM - 9:50 AM"
+      column: 7
+      start_hour: 9
+      start_minute: 0
+      end_hour: 9
+      end_minute: 50
 
     - speaker: "Lukas Gentele"
       speaker_image: "images/speakers/lukas-gentele-thumb.jpg"
@@ -88,6 +93,11 @@ tab:
       subject: "Kubernetes Multi-Tenancy - Let's Lock Down A Kubernetes Cluster Together (Sponsor: Loft Labs)"
       venue: "Room 1"
       time: "9:00 AM - 4:15 PM"
+      column: 2
+      start_hour: 9
+      start_minute: 0
+      end_hour: 16
+      end_minute: 15
 
     - speaker: "Alexander Matyushentsev"
       speaker_image: "images/speakers/alexander-matyushentsev-thumb.jpg"
@@ -96,6 +106,11 @@ tab:
       subject: "Advanced GitOps Certification (Sponsor: Akuity)"
       venue: "Room 3"
       time : "9:00 AM - 11:45 AM"
+      column: 4
+      start_hour: 9
+      start_minute: 0
+      end_hour: 11
+      end_minute: 45
 
     - speaker : "Matt Butcher"
       speaker_image : "images/speakers/matt-butcher-thumb.jpg"
@@ -103,7 +118,12 @@ tab:
       talk_link: "https://kcd-texas.sessionize.com/session/606261"
       subject : "Phippy's Field Guide to Wasm"
       venue : "Room 4"
+      column: 5
       time : "9:50 AM - 10:15 AM"
+      start_hour: 9
+      start_minute: 50
+      end_hour: 10
+      end_minute: 15
 
     - speaker : "Natalie Lunbeck"
       speaker_image : "images/speakers/natalie-lunbeck-thumb.jpg"
@@ -111,13 +131,23 @@ tab:
       talk_link: "https://kcd-texas.sessionize.com/session/627497"
       subject : "Ephemeral Environments: Redefining Pre-Production"
       venue : "Room 5"
+      column: 6
       time : "9:50 AM - 10:15 AM"
+      start_hour: 9
+      start_minute: 50
+      end_hour: 10
+      end_minute: 15
 
     ## 10:00 AM
 
     - subject : "TXLF Expo Booths"
       venue : "Exhibit Hall 2"
+      column: 7
       time : "10:00 AM - 5:00 PM"
+      start_hour: 10
+      start_minute: 0
+      end_hour: 17
+      end_minute: 0
 
     - speaker : "Joonas Burgius"
       speaker_image : "images/speakers/joonas-bergius-thumb.jpg"
@@ -125,7 +155,12 @@ tab:
       talk_link: "https://kcd-texas.sessionize.com/session/627520"
       subject : "Closing The Gap: Extending Kubernetes from Cloud to Edge with WebAssembly"
       venue : "Room 4"
+      column: 5
       time : "10:25 AM - 10:50 AM"
+      start_hour: 10
+      start_minute: 25
+      end_hour: 10
+      end_minute: 50
 
     - speaker : "Bob Walker"
       speaker_image : "images/speakers/bob-walker-thumb.jpg"
@@ -133,7 +168,12 @@ tab:
       talk_link: "https://kcd-texas.sessionize.com/session/591923"
       subject : "Lessons Learned hosting 1800 customer instances in 8 K8s Clusters"
       venue : "Room 5"
+      column: 6
       time : "10:25 AM - 10:50 AM"
+      start_hour: 10
+      start_minute: 25
+      end_hour: 10
+      end_minute: 50
 
     ## 11:00 AM
 
@@ -143,7 +183,12 @@ tab:
       talk_link: "https://kcd-texas.sessionize.com/session/627473"
       subject : "Korell8r - Signal Correlation for Kubernetes and Beyond"
       venue : "Room 4"
+      column: 5
       time : "11:00 AM - 11:25 AM"
+      start_hour: 11
+      start_minute: 0
+      end_hour: 11
+      end_minute: 25
 
     - speaker : "Steven Borelli"
       speaker_image : "images/speakers/steven-borrelli-thumb.png"
@@ -151,7 +196,12 @@ tab:
       talk_link: "https://kcd-texas.sessionize.com/session/625779"
       subject : "Crossplane for Platform Engineers"
       venue : "Room 5"
+      column: 6
       time : "11:00 AM - 11:25 AM"
+      start_hour: 11
+      start_minute: 0
+      end_hour: 11
+      end_minute: 25
 
     - speaker : "Shane Utt"
       speaker_image : "images/speakers/shane-utt-thumb.jpg"
@@ -159,7 +209,12 @@ tab:
       talk_link: "https://kcd-texas.sessionize.com/session/627256"
       subject : "Kubernetes Networking reImagined"
       venue : "Room 4"
+      column: 5
       time : "11:35 AM - 12:00 PM"
+      start_hour: 11
+      start_minute: 35
+      end_hour: 12
+      end_minute: 0
 
     - speaker : "Wavell Watson"
       speaker_image : "images/speakers/wavell-watson-thumb.png"
@@ -167,12 +222,22 @@ tab:
       talk_link: "https://kcd-texas.sessionize.com/session/627333"
       subject : "5g Core Testing with the CNF TestSuite"
       venue : "Room 5"
+      column: 6
       time : "11:35 AM - 12:00 PM"
+      start_hour: 11
+      start_minute: 35
+      end_hour: 12
+      end_minute: 0
 
     ## 12:00 PM
 
     - subject : "Lunch"
       time : "12:00 PM - 1:30 PM"
+      start_hour: 12
+      start_minute: 0
+      end_hour: 13
+      end_minute: 30
+      column: -1
 
     ## 1:00 PM
 
@@ -182,7 +247,12 @@ tab:
       talk_link: "https://kcd-texas.sessionize.com/session/602418"
       subject : "Kubernetes Kickstart Boosting Agility with CNCF and DevOps"
       venue : "Room 5"
+      column: 6
       time : "1:00 PM - 2:30 PM"
+      start_hour: 13
+      start_minute: 0
+      end_hour: 14
+      end_minute: 30
 
     - speaker : "Richard Rios"
       speaker_image : "images/speakers/richard-rios-thumb.png"
@@ -190,7 +260,12 @@ tab:
       talk_link: "talks/red-hat-enterprise-linux-security-technologies-workshop/"
       subject: "Red Hat Enterprise Linux Security Technologies Workshop (Sponsor: Red Hat)"
       venue : "Room 2"
+      column: 3
       time : "1:30 PM - 4:15 PM"
+      start_hour: 13
+      start_minute: 30
+      end_hour: 16
+      end_minute: 15
 
     - speaker: "Ravi Verma"
       speaker_image: "images/speakers/ravi-verma-thumb.jpg"
@@ -198,7 +273,12 @@ tab:
       talk_link: "talks/smart-contract-driven-development/"
       subject : "Smart Contract Driven Development (Sponsor: Rezoomex)"
       venue : "Room 3"
+      column: 4
       time : "1:30 PM - 4:15 PM"
+      start_hour: 13
+      start_minute: 30
+      end_hour: 16
+      end_minute: 15
 
     ## 2:00 PM
 
@@ -208,13 +288,24 @@ tab:
       talk_link: "https://kcd-texas.sessionize.com/session/611255"
       subject : "Demystifying Kubernetes Resource Management"
       venue : "Room 5"
+      column: 6
       time : "2:40 PM - 4:10 PM"
+      start_hour: 14
+      start_minute: 40
+      end_hour: 16
+      end_minute: 10
 
     ## 4:00 PM
 
     - subject : "KCD Lightning Talks"
       venue : "Room 4"
       time : "4:15 PM - 4:35 PM"
+      column: 5
+      start_hour: 16
+      start_minute: 15
+      end_hour: 16
+      end_minute: 30
+
 
     - speaker : "Andrew Martin"
       speaker_image : "images/speakers/andrew-martin-thumb.jpg"
@@ -223,6 +314,11 @@ tab:
       subject : "Mini-CTF Workshop"
       venue : "Room 5"
       time : "4:15 PM - 4:45 PM"
+      column: 6
+      start_hour: 16
+      start_minute: 15
+      end_hour: 16
+      end_minute: 30
 
     - speaker : "Cody Lee Cochran"
       speaker_image : "images/speakers/cody-lee-cochran-thumb.jpg"
@@ -230,7 +326,12 @@ tab:
       talk_link: "talks/bash-programming/"
       subject : "Bash Programming"
       venue : "Room 1"
+      column: 2
       time : "4:30 PM - 5:45 PM"
+      start_hour: 16
+      start_minute: 30
+      end_hour: 17
+      end_minute: 45
 
     - speaker : "David Stokes"
       speaker_image : "images/speakers/david-stokes-thumb.jpg"
@@ -238,7 +339,12 @@ tab:
       talk_link: "talks/postgresql-for-mysql-dbas/"
       subject : "PostgreSQL For MySQL DBAs"
       venue : "Room 2"
+      column: 3
       time : "4:30 PM - 5:45 PM"
+      start_hour: 16
+      start_minute: 30
+      end_hour: 17
+      end_minute: 45
 
     - speaker : "Oluebube Princess Egbuna"
       speaker_image: "images/speakers/oluebube-princess-egbuna-thumb.jpg"
@@ -246,7 +352,12 @@ tab:
       talk_link: "talks/mastering-cluster-api-and-gitops/"
       subject : "Mastering Cluster API and GitOps: A Deep Dive into Extensible Components for Building Production-Ready Kubernetes Clusters"
       venue : "Room 3"
+      column: 4
       time : "4:30 PM - 5:45 PM"
+      start_hour: 16
+      start_minute: 30
+      end_hour: 17
+      end_minute: 45
 
   # tab item
   - name : "Day 2"
@@ -261,13 +372,23 @@ tab:
       talk_link: "talks/how-not-to-get-into-tech/"
       subject: "TXLF Keynote: How (Not) To Get Into Tech"
       venue : "Exhibit Hall 2"
+      column: 7
       time : "9:00 AM - 9:45 AM"
+      start_hour: 9
+      start_minute: 0
+      end_hour: 9
+      end_minute: 45
 
     ## 10:00 AM
 
     - subject : "TXLF Expo Booths"
       venue : "Exhibit Hall 2"
+      column: 7
       time : "10:00 AM - 5:00 PM"
+      start_hour: 10
+      start_minute: 0
+      end_hour: 17
+      end_minute: 0
 
     - speaker : "David Duncan"
       speaker_image : "images/speakers/david-duncan-thumb.jpg"
@@ -275,7 +396,12 @@ tab:
       talk_link: "talks/building-a-fedora-kde-image-for-use-with-public-cloud-providers/"
       subject : "Building a Fedora KDE image for use with Public Cloud Providers"
       venue : "Room 1"
+      column: 2
       time : "10:00 AM - 10:45 AM"
+      start_hour: 10
+      start_minute: 0
+      end_hour: 10
+      end_minute: 45
 
     - speaker : "Alex Juarez"
       speaker_image : "images/speakers/alex-juarez-thumb.jpg"
@@ -283,7 +409,12 @@ tab:
       talk_link: "talks/things-i-wish-i-knew-about-containers-sooner-rather-than-later/"
       subject : "Things I wish I knew about containers sooner rather than later."
       venue : "Room 2"
+      column: 3
       time : "10:00 AM - 10:45 AM"
+      start_hour: 10
+      start_minute: 0
+      end_hour: 10
+      end_minute: 45
 
     - speaker : "Matt Mullins"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
@@ -291,7 +422,12 @@ tab:
       talk_link: "talks/the-oldest-linux-peripheral/"
       subject : "The oldest Linux peripheral"
       venue : "Room 3"
+      column: 4
       time : "10:00 AM - 10:45 AM"
+      start_hour: 10
+      start_minute: 0
+      end_hour: 10
+      end_minute: 45
 
     - speaker : "Thomas Cameron"
       speaker_image : "images/speakers/thomas-cameron-thumb.jpg"
@@ -299,7 +435,12 @@ tab:
       talk_link: "talks/enterprise-automation-with-awx/"
       subject : "Enterprise Automation with AWX (upstream for Ansible Automation Platform)"
       venue : "Room 4"
+      column: 5
       time : "10:00 AM - 10:45 AM"
+      start_hour: 10
+      start_minute: 0
+      end_hour: 10
+      end_minute: 45
 
     - speaker : "Krista Burdine"
       speaker_image : "images/speakers/krista-burdine-thumb.jpg"
@@ -307,7 +448,12 @@ tab:
       talk_link: "talks/deep-in-the-heart-of-rocky/"
       subject : "Deep in the Heart of Rocky: Project Tour, SIG Showcase, and Contributor Orientation for Rocky Linux (Sponsor: Rocky Linux)"
       venue : "Room 5"
+      column: 6
       time : "10:00 AM - 12:45 PM"
+      start_hour: 10
+      start_minute: 0
+      end_hour: 12
+      end_minute: 45
 
     ## 11:00 AM
 
@@ -317,7 +463,12 @@ tab:
       talk_link: "talks/running-centos-stream-in-production/"
       subject : "Running CentOS Stream in Production"
       venue : "Room 1"
+      column: 2
       time : "11:00 AM - 11:45 AM"
+      start_hour: 11
+      start_minute: 0
+      end_hour: 11
+      end_minute: 45
 
     - speaker : "Talia Nassi"
       speaker_image: "images/speakers/talia-nassi-thumb.png"
@@ -325,7 +476,12 @@ tab:
       talk_link: "talks/cloud-computing-101/"
       subject : "Cloud Computing 101"
       venue : "Room 2"
+      column: 3
       time : "11:00 AM - 11:45 AM"
+      start_hour: 11
+      start_minute: 0
+      end_hour: 11
+      end_minute: 45
 
     - speaker : "Kyle J. Davis"
       speaker_image : "images/speakers/kyle-j-davis-thumb.jpg"
@@ -334,6 +490,11 @@ tab:
       subject : "Digging in to Valkey, an open source, in-memory data store"
       venue : "Room 3"
       time : "11:00 AM - 11:45 AM"
+      column: 4
+      start_hour: 11
+      start_minute: 0
+      end_hour: 11
+      end_minute: 45
 
     - speaker : "Paul Novarese"
       speaker_image : "images/speakers/paul-novarese-thumb.jpg"
@@ -341,7 +502,12 @@ tab:
       talk_link: "talks/the-legacy-of-log4shell-and-the-future-of-devsecops/"
       subject : "The Legacy of Log4Shell and the Future of DevSecOps"
       venue : "Room 4"
+      column: 5
       time : "11:00 AM - 11:45 AM"
+      start_hour: 11
+      start_minute: 0
+      end_hour: 11
+      end_minute: 45
 
     ## 12:00 PM
 
@@ -351,7 +517,12 @@ tab:
       talk_link: "talks/mkroot-tiny-linux-system-builder/"
       subject : "mkroot: tiny Linux system builder"
       venue : "Room 1"
+      column: 2
       time : "12:00 PM - 12:45 PM"
+      start_hour: 12
+      start_minute: 0
+      end_hour: 12
+      end_minute: 45
 
     - speaker : "Matthew Boehm"
       speaker_image : "images/speakers/matthew-boehm-thumb.jpg"
@@ -359,7 +530,12 @@ tab:
       talk_link: "talks/migrating-mysql-to-kubernetes/"
       subject : "Migrating MySQL to Kubernetes"
       venue : "Room 2"
+      column: 3
       time : "12:00 PM - 12:45 PM"
+      start_hour: 12
+      start_minute: 0
+      end_hour: 12
+      end_minute: 45
 
     - speaker : "Major Hayden"
       speaker_image : "images/speakers/major-hayden-thumb.png"
@@ -367,7 +543,12 @@ tab:
       talk_link: "talks/five-tips-for-a-thriving-technology-career/"
       subject : "Five tips for a thriving technology career"
       venue : "Room 3"
+      column: 4
       time : "12:00 PM - 12:45 PM"
+      start_hour: 12
+      start_minute: 0
+      end_hour: 12
+      end_minute: 45
 
     - speaker : "Fred Lawler"
       speaker_image : "images/speakers/fred-lawler-thumb.jpg"
@@ -375,12 +556,22 @@ tab:
       talk_link: "talks/connect-why-you-so-slow/"
       subject : "connect() - why you so slow?!"
       venue : "Room 4"
+      column: 5
       time : "12:00 PM - 12:45 PM"
+      start_hour: 12
+      start_minute: 0
+      end_hour: 12
+      end_minute: 45
 
     ## 1:00 PM
 
     - subject : "Lunch"
       time : "1:00 PM - 2:30 PM"
+      start_hour: 13
+      start_minute: 0
+      end_hour: 14
+      end_minute: 30
+      column: -1
 
     ## 2:30 PM
 
@@ -390,7 +581,12 @@ tab:
       talk_link: "talks/why-would-you-run-linux-on-the-mainframe/"
       subject : "Why (and how) would you run Linux on the Mainframe?"
       venue : "Room 1"
+      column: 2
       time : "2:30 PM - 3:15 PM"
+      start_hour: 14
+      start_minute: 30
+      end_hour: 15
+      end_minute: 15
 
     - speaker : "Thomas Cameron"
       speaker_image : "images/speakers/thomas-cameron-thumb.jpg"
@@ -398,7 +594,12 @@ tab:
       talk_link: "talks/learning-okd-on-premise/"
       subject : "Learning OKD (upstream for Red Hat OpenShift) on premise"
       venue : "Room 2"
+      column: 3
       time : "2:30 PM - 3:15 PM"
+      start_hour: 14
+      start_minute: 30
+      end_hour: 15
+      end_minute: 15
 
     - speaker : "Frank Karlitschek"
       speaker_image : "images/speakers/frank-karlitschek-thumb.jpg"
@@ -406,7 +607,12 @@ tab:
       talk_link: "talks/what-the-ai-revolution-means-for-open-source-open-tech-and-open-societies/"
       subject : "What the AI revolution means for Open Source, Open Tech and Open Societies"
       venue : "Room 3"
+      column: 4
       time : "2:30 PM - 3:15 PM"
+      start_hour: 14
+      start_minute: 30
+      end_hour: 15
+      end_minute: 15
 
     - speaker : "Alexander Rubin"
       speaker_image : "images/speakers/alexander-rubin-thumb.jpg"
@@ -414,7 +620,12 @@ tab:
       talk_link: "talks/pen-testing-opensource-databases/"
       subject : "Pen-testing opensource databases (MySQL and PostgreSQL)"
       venue : "Room 4"
+      column: 5
       time : "2:30 PM - 3:15 PM"
+      start_hour: 14
+      start_minute: 30
+      end_hour: 15
+      end_minute: 15
 
     ## 3:30 PM
 
@@ -424,7 +635,12 @@ tab:
       talk_link: "talks/the-hitchhikers-guide-to-the-rhel-ecosystem/"
       subject : "The Hitchhiker's Guide to the RHEL ecosystem"
       venue : "Room 1"
+      column: 2
       time : "3:30 PM - 4:15 PM"
+      start_hour: 15
+      start_minute: 30
+      end_hour: 16
+      end_minute: 15
 
     - speaker : "Kyle J. Davis"
       speaker_image : "images/speakers/kyle-j-davis-thumb.jpg"
@@ -432,7 +648,12 @@ tab:
       talk_link: "talks/container-optimized-linux/"
       subject: "Container Optimized Linux: The best idea you're probably not using."
       venue : "Room 2"
+      column: 3
       time : "3:30 PM - 4:15 PM"
+      start_hour: 15
+      start_minute: 30
+      end_hour: 16
+      end_minute: 15
 
     - speaker : "Caleb Schoepp"
       speaker_image : "images/speakers/caleb-schoepp-thumb.jpg"
@@ -440,7 +661,12 @@ tab:
       talk_link: "talks/what-actually-is-webassembly/"
       subject : "What Actually Is WebAssembly: Taking a Look Under the Hood"
       venue : "Room 3"
+      column: 4
       time : "3:30 PM - 4:15 PM"
+      start_hour: 15
+      start_minute: 30
+      end_hour: 16
+      end_minute: 15
 
     - speaker : "Michael Yuan"
       speaker_image : "images/speakers/michael-yuan-thumb.png"
@@ -448,7 +674,12 @@ tab:
       talk_link: "talks/run-llms-on-all-your-linux-iot-devices/"
       subject : "Run LLMs on all your Linux IoT devices"
       venue : "Room 4"
+      column: 5
       time : "3:30 PM - 4:15 PM"
+      start_hour: 15
+      start_minute: 30
+      end_hour: 16
+      end_minute: 15
 
     ## 4:30 PM
 
@@ -458,7 +689,12 @@ tab:
       talk_link: "talks/bringing-fedora-linux-to-apple-silicon-macs-with-asahi-linux/"
       subject : "Bringing Fedora Linux to Apple Silicon Macs with Asahi Linux"
       venue : "Room 1"
+      column: 2
       time : "4:30 PM - 5:15 PM"
+      start_hour: 16
+      start_minute: 30
+      end_hour: 17
+      end_minute: 15
 
     - speaker : "Major Hayden"
       speaker_image : "images/speakers/major-hayden-thumb.png"
@@ -466,7 +702,12 @@ tab:
       talk_link: "talks/automated-container-updates-with-github-coreos/"
       subject : "Automated container updates with GitHub & CoreOS"
       venue : "Room 2"
+      column: 3
       time : "4:30 PM - 5:15 PM"
+      start_hour: 16
+      start_minute: 30
+      end_hour: 17
+      end_minute: 15
 
     - speaker : "Chris Stackpole"
       speaker_image : "images/speakers/chris-stackpole-thumb.jpg"
@@ -474,7 +715,12 @@ tab:
       talk_link: "talks/find-your-way-to-open-source-contribution-with-openstreetmap/"
       subject : "Find Your Way to Open Source Contribution with OpenStreetMap"
       venue : "Room 3"
+      column: 4
       time : "4:30 PM - 5:15 PM"
+      start_hour: 16
+      start_minute: 30
+      end_hour: 17
+      end_minute: 15
 
     - speaker : "Alex Kretzschmar"
       speaker_image : "images/speakers/alex-kretzschmar-thumb.jpg"
@@ -482,19 +728,33 @@ tab:
       talk_link: "talks/access-self-hosted-services-securely-from-anywhere/"
       subject : "Access self-hosted services securely from anywhere"
       venue : "Room 4"
+      column: 5
       time : "4:30 PM - 5:15 PM"
+      start_hour: 16
+      start_minute: 30
+      end_hour: 17
+      end_minute: 15
 
     ## 5:30 PM
 
     - subject : "Lightning talks"
       venue : "Exhibit Hall 2"
       time : "5:30 PM - 6:00 PM"
+      start_hour: 17
+      start_minute: 30
+      end_hour: 18
+      end_minute: 0
 
     ## 6:00 PM
 
     - subject : "Closing remarks"
       venue : "Exhibit Hall 2"
       time : "6:00 PM - 6:15 PM"
+      start_hour: 18
+      start_minute: 0
+      end_hour: 18
+      end_minute: 15
+
 
 ############ Registration ####################
 registration:
