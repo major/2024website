@@ -9,6 +9,10 @@ ignore_header: true
 
 ---
 
-## Hotels near _Texas Linux Festival_
+## Hotels for _Texas Linux Festival_
 
-[See a map of surrounding hotels](https://www.palmereventscenter.com/hotels/)
+There are several hotel options available to attendees of Texas Linux Fest.
+<br/><br/>
+
+- Embassy Suites has [**discounted rooms available**](https://www.hilton.com/en/attend-my-event/auslkes-lin-008655fc-a007-41c6-8d04-0d79e5b68ea6/) for Texas Linux Fest attendees.
+- Other nearby hotels are listed on the [**venue website**](https://www.palmereventscenter.com/hotels/).
