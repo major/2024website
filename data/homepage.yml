@@ -204,6 +204,12 @@ tab:
       venue : "Room 1"
       time : "10:00 AM - 10:45 AM"
 
+    - speaker : "Alex Juarez"
+      speaker_image : "images/speakers/alex-juarez-thumb.jpg"
+      subject : "Things I wish I knew about containers sooner rather than later."
+      venue : "Room 2"
+      time : "10:00 AM - 10:45 AM"
+
     - speaker : "Matt Mullins"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
       subject : "The oldest Linux peripheral"
