@@ -9,7 +9,7 @@ layout : "faq"
 
 
 {{< faq "Any refunds?" >}}
-Reach out to info@texaslinuxfest.org if you would like a refund for a purchased ticket
+Reach out to info@texaslinuxfest.org if you would like a refund for a purchased ticket. Up to 60 days from the event, we are able to offer a full cash refund. From 59 days to 3 days out, we can transfer your ticket to another attendee. 72 hours or less from the event, no refunds or cancelations are possible. 
 {{</ faq >}}
 
 {{< faq "Covid 2020 Cancellation Ticket Redemption" >}}
