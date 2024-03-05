@@ -362,7 +362,7 @@ registration:
   content : "**Registration for Texas Linux Festival 2024 is now open!**"
   form_action : "#" # works with formspree.io
   hide_form: true
-  link: "https://register.linuxfests.org/reg6/"
+  link : "pricing/"
   button_text: "Register now!"
 
   funfacts:
@@ -387,30 +387,30 @@ pricing:
   title : "Get _Tickets_"
   content : "Event Pricing for Texas Linux Festival 2024"
   pricing_table:
-  - name : "Early Bird Ticket"
+  #- name : "Early Bird Ticket"
+  #  price : "50.00"
+  #  price_per : "Person"
+  #  button_link : "https://register.linuxfests.org/reg6/"
+  #  features:
+  #  - "Full access to the event"
+  #  - "Helps make TXLF possible!"
+
+  - name : "Enthusiast"
     price : "50.00"
     price_per : "Person"
     button_link : "https://register.linuxfests.org/reg6/"
     features:
-    - "Full Access to the event"
+    - "Full access to the event"
     - "Helps make TXLF possible!"
 
-  #- name : "Enthusiast"
-  #  price : "75.00"
-  #  price_per : "Person"
-  #  button_link : "https://register.linuxfests.org/reg6/"
-  #  features:
-  #  - "Full Access to the event"
-  #  - "Helps make TXLF possible!"
-  #
-  #- name : "Supporter"
-  #  price : "100.00"
-  #  price_per : "Person"
-  #  button_link : "https://register.linuxfests.org/reg6/"
-  #  features:
-  #  - "Full Access to the event"
-  #  - "Supporter level badge"
-  #  - "Helps make TXLF possible!"
+  - name : "Supporter"
+    price : "100.00"
+    price_per : "Person"
+    button_link : "https://register.linuxfests.org/reg6/"
+    features:
+    - "Full access to the event"
+    - "Helps make TXLF possible!"
+    - "TXLF swag pack"
 
 sponsorship_pricing:
   enable : true
