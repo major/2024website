@@ -323,7 +323,7 @@ tab:
       time : "3:30 PM - 4:15 PM"
 
     - speaker : "Michael Yuan"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      speaker_image : "images/speakers/michael-yuan-thumb.png"
       subject : "Run LLMs on all your Linux IoT devices"
       venue : "Room 4"
       time : "3:30 PM - 4:15 PM"
