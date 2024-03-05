@@ -92,6 +92,11 @@ tab:
 
     ## 10:00 AM
 
+    - subject : "TXLF Expo Booths"
+      venue : "Exhibit Hall 2"
+      time : "10:00 AM - 5:00 PM"
+
+
     - speaker : "Miley Fu"
       speaker_image : "images/speakers/miley-fu-thumb.jpg"
       subject : "Self-host Portable Open Source LLMs Across Devices & Cloud-Native Environments"
@@ -197,6 +202,10 @@ tab:
       time : "9:00 AM - 9:45 AM"
 
     ## 10:00 AM
+
+    - subject : "TXLF Expo Booths"
+      venue : "Exhibit Hall 2"
+      time : "10:00 AM - 5:00 PM"
 
     - speaker : "David Duncan"
       speaker_image : "images/speakers/david-duncan-thumb.jpg"
