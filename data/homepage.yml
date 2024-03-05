@@ -216,6 +216,12 @@ tab:
       venue : "Room 3"
       time : "10:00 AM - 10:45 AM"
 
+    - speaker : "Rob Landley"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "mkroot: tiny Linux system builder"
+      venue : "Room 4"
+      time : "10:00 AM - 10:45 AM"
+
     ## 11:00 AM
 
     - speaker : "Robert Callicotte"
