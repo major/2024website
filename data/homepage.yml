@@ -317,7 +317,7 @@ tab:
       time : "3:30 PM - 4:15 PM"
 
     - speaker : "Caleb Schoepp"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      speaker_image : "images/speakers/caleb-schoepp-thumb.jpg"
       subject : "What Actually Is WebAssembly: Taking a Look Under the Hood"
       venue : "Room 2"
       time : "3:30 PM - 4:15 PM"
