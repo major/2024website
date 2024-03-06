@@ -266,7 +266,7 @@ tab:
       time : "12:00 PM - 12:45 PM"
 
     - speaker : "Alexander Rubin"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      speaker_image : "images/speakers/alexander-rubin-thumb.jpg"
       subject : "Pen-testing opensource databases (MySQL and PostgreSQL)"
       venue : "Room 2"
       time : "12:00 PM - 12:45 PM"
