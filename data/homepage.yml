@@ -226,7 +226,7 @@ tab:
       time : "10:00 AM - 10:45 AM"
 
     - speaker : "Rob Landley"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      speaker_image : "images/speakers/rob-landley-thumb.jpg"
       subject : "mkroot: tiny Linux system builder"
       venue : "Room 4"
       time : "10:00 AM - 10:45 AM"
