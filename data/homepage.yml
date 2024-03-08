@@ -154,6 +154,12 @@ tab:
       venue : "Room 2"
       time : "1:30 PM - 4:15 PM"
 
+    - speaker : "TBD"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Smart Contract Driven Development (Sponsor: Rezoomex)"
+      venue : "Room 3"
+      time : "1:30 PM - 4:15 PM"
+
     ## 2:00 PM
 
     - speaker : "Rafa Brito"
