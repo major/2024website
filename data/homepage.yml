@@ -308,6 +308,12 @@ tab:
       venue : "Room 3"
       time : "2:30 PM - 3:15 PM"
 
+    - speaker : "Major Hayden"
+      speaker_image : "images/speakers/major-hayden-thumb.png"
+      subject : "Automated container updates with GitHub & CoreOS"
+      venue : "Room 4"
+      time : "2:30 PM - 3:15 PM"
+
     ## 3:30 PM
 
     - speaker : "Carl George"
