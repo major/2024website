@@ -322,6 +322,12 @@ tab:
       venue : "Room 2"
       time : "3:30 PM - 4:15 PM"
 
+    - speaker : "Thomas Cameron"
+      speaker_image : "images/speakers/thomas-cameron-thumb.jpg"
+      subject : "Learning OKD (upstream for Red Hat OpenShift) on premise"
+      venue : "Room 3"
+      time : "3:30 PM - 4:15 PM"
+
     - speaker : "Michael Yuan"
       speaker_image : "images/speakers/michael-yuan-thumb.png"
       subject : "Run LLMs on all your Linux IoT devices"
