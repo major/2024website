@@ -213,9 +213,9 @@ tab:
       venue : "Room 1"
       time : "10:00 AM - 10:45 AM"
 
-    - speaker : "Alex Juarez"
-      speaker_image : "images/speakers/alex-juarez-thumb.jpg"
-      subject : "Things I wish I knew about containers sooner rather than later."
+    - speaker : "Talia Nassi"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Cloud Computing 101"
       venue : "Room 2"
       time : "10:00 AM - 10:45 AM"
 
@@ -225,9 +225,9 @@ tab:
       venue : "Room 3"
       time : "10:00 AM - 10:45 AM"
 
-    - speaker : "Rob Landley"
-      speaker_image : "images/speakers/rob-landley-thumb.jpg"
-      subject : "mkroot: tiny Linux system builder"
+    - speaker : "Thomas Cameron"
+      speaker_image : "images/speakers/thomas-cameron-thumb.jpg"
+      subject : "Enterprise Automation with AWX (upstream for Ansible Automation Platform)"
       venue : "Room 4"
       time : "10:00 AM - 10:45 AM"
 
@@ -259,21 +259,21 @@ tab:
 
     ## 12:00 PM
 
-    - speaker : "Thomas Cameron"
-      speaker_image : "images/speakers/thomas-cameron-thumb.jpg"
-      subject : "Enterprise Automation with AWX (upstream for Ansible Automation Platform)"
+    - speaker : "Rob Landley"
+      speaker_image : "images/speakers/rob-landley-thumb.jpg"
+      subject : "mkroot: tiny Linux system builder"
       venue : "Room 1"
       time : "12:00 PM - 12:45 PM"
 
-    - speaker : "Alexander Rubin"
-      speaker_image : "images/speakers/alexander-rubin-thumb.jpg"
-      subject : "Pen-testing opensource databases (MySQL and PostgreSQL)"
+    - speaker : "Alex Juarez"
+      speaker_image : "images/speakers/alex-juarez-thumb.jpg"
+      subject : "Things I wish I knew about containers sooner rather than later."
       venue : "Room 2"
       time : "12:00 PM - 12:45 PM"
 
-    - speaker : "Talia Nassi"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Cloud Computing 101"
+    - speaker : "Major Hayden"
+      speaker_image : "images/speakers/major-hayden-thumb.png"
+      subject : "Five tips for a thriving technology career"
       venue : "Room 3"
       time : "12:00 PM - 12:45 PM"
 
@@ -296,21 +296,21 @@ tab:
       venue : "Room 1"
       time : "2:30 PM - 3:15 PM"
 
-    - speaker : "Frank Karlitschek"
-      speaker_image : "images/speakers/frank-karlitschek-thumb.jpg"
-      subject : "What the AI revolution means for Open Source, Open Tech and Open Societies"
+    - speaker : "Thomas Cameron"
+      speaker_image : "images/speakers/thomas-cameron-thumb.jpg"
+      subject : "Learning OKD (upstream for Red Hat OpenShift) on premise"
       venue : "Room 2"
       time : "2:30 PM - 3:15 PM"
 
-    - speaker : "Kyle J. Davis"
-      speaker_image : "images/speakers/kyle-j-davis-thumb.jpg"
-      subject : "Container Optimized Linux: The best idea you’re probably not using."
+    - speaker : "Frank Karlitschek"
+      speaker_image : "images/speakers/frank-karlitschek-thumb.jpg"
+      subject : "What the AI revolution means for Open Source, Open Tech and Open Societies"
       venue : "Room 3"
       time : "2:30 PM - 3:15 PM"
 
-    - speaker : "Major Hayden"
-      speaker_image : "images/speakers/major-hayden-thumb.png"
-      subject : "Automated container updates with GitHub & CoreOS"
+    - speaker : "Alexander Rubin"
+      speaker_image : "images/speakers/alexander-rubin-thumb.jpg"
+      subject : "Pen-testing opensource databases (MySQL and PostgreSQL)"
       venue : "Room 4"
       time : "2:30 PM - 3:15 PM"
 
@@ -322,15 +322,15 @@ tab:
       venue : "Room 1"
       time : "3:30 PM - 4:15 PM"
 
-    - speaker : "Caleb Schoepp"
-      speaker_image : "images/speakers/caleb-schoepp-thumb.jpg"
-      subject : "What Actually Is WebAssembly: Taking a Look Under the Hood"
+    - speaker : "Kyle J. Davis"
+      speaker_image : "images/speakers/kyle-j-davis-thumb.jpg"
+      subject : "Container Optimized Linux: The best idea you’re probably not using."
       venue : "Room 2"
       time : "3:30 PM - 4:15 PM"
 
-    - speaker : "Thomas Cameron"
-      speaker_image : "images/speakers/thomas-cameron-thumb.jpg"
-      subject : "Learning OKD (upstream for Red Hat OpenShift) on premise"
+    - speaker : "Caleb Schoepp"
+      speaker_image : "images/speakers/caleb-schoepp-thumb.jpg"
+      subject : "What Actually Is WebAssembly: Taking a Look Under the Hood"
       venue : "Room 3"
       time : "3:30 PM - 4:15 PM"
 
@@ -350,7 +350,7 @@ tab:
 
     - speaker : "Major Hayden"
       speaker_image : "images/speakers/major-hayden-thumb.png"
-      subject : "Five tips for a thriving technology career"
+      subject : "Automated container updates with GitHub & CoreOS"
       venue : "Room 2"
       time : "4:30 PM - 5:15 PM"
 
