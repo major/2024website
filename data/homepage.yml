@@ -225,9 +225,9 @@ tab:
       venue : "Room 1"
       time : "10:00 AM - 10:45 AM"
 
-    - speaker : "Talia Nassi"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Cloud Computing 101"
+    - speaker : "Alex Juarez"
+      speaker_image : "images/speakers/alex-juarez-thumb.jpg"
+      subject : "Things I wish I knew about containers sooner rather than later."
       venue : "Room 2"
       time : "10:00 AM - 10:45 AM"
 
@@ -283,9 +283,9 @@ tab:
       venue : "Room 1"
       time : "12:00 PM - 12:45 PM"
 
-    - speaker : "Alex Juarez"
-      speaker_image : "images/speakers/alex-juarez-thumb.jpg"
-      subject : "Things I wish I knew about containers sooner rather than later."
+    - speaker : "Talia Nassi"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Cloud Computing 101"
       venue : "Room 2"
       time : "12:00 PM - 12:45 PM"
 
