@@ -257,9 +257,9 @@ tab:
       venue : "Room 1"
       time : "11:00 AM - 11:45 AM"
 
-    - speaker : "Matthew Boehm"
-      speaker_image : "images/speakers/matthew-boehm-thumb.jpg"
-      subject : "Migrating MySQL to Kubernetes"
+    - speaker : "Talia Nassi"
+      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+      subject : "Cloud Computing 101"
       venue : "Room 2"
       time : "11:00 AM - 11:45 AM"
 
@@ -283,9 +283,9 @@ tab:
       venue : "Room 1"
       time : "12:00 PM - 12:45 PM"
 
-    - speaker : "Talia Nassi"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Cloud Computing 101"
+    - speaker : "Matthew Boehm"
+      speaker_image : "images/speakers/matthew-boehm-thumb.jpg"
+      subject : "Migrating MySQL to Kubernetes"
       venue : "Room 2"
       time : "12:00 PM - 12:45 PM"
 
