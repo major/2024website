@@ -579,11 +579,11 @@ sponsors:
       logo: "images/sponsors/diamond-spon-one.png"
       link : "/sponsors/scinary"
 
-  #- name : "Platinum Sponsors"
-  #  sponsor_item:
-  #  - name : "sponsor"
-  #    logo : "images/sponsors/pt-spon-two.png"
-  #    link : "/sponsorship"
+  - name : "Platinum Sponsors"
+    sponsor_item:
+      - name: "Loft"
+        logo: "images/sponsors/loft.svg"
+        link: "https://loft.sh"
 
   - name : "Gold Sponsors"
     sponsor_item:
