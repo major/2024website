@@ -319,6 +319,13 @@
 }
 
 .schedule{
+	.container{
+		padding-left: 0px;
+		padding-right: 0px;
+		@include desktop-sm {
+			max-width: 960px;
+		}
+	}
 	.schedule-tab{
 		display: flex;
 		justify-content: center;
@@ -454,7 +461,13 @@
 				border-right: 1px solid;
 				border-color: $border-color; 
 				.block{
-					padding: 10px 40px;
+					padding: 10px 30px;
+					@include tablet {
+						padding: 10px 20px;
+					}
+					@include mobile {
+						padding: 10px 10px;
+					}
 					background: $light;
 					width: 100%;
 					transition: .2s ease-in;
