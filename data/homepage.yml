@@ -148,8 +148,8 @@ tab:
       venue : "Room 5"
       time : "1:00 PM - 2:30 PM"
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+    - speaker : "Richard Rios"
+      speaker_image : "images/speakers/richard-rios-thumb.png"
       subject : "RHEL Security (Sponsor: Red Hat)"
       venue : "Room 2"
       time : "1:30 PM - 4:15 PM"
