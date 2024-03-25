@@ -235,8 +235,8 @@ tab:
       venue : "Room 4"
       time : "10:00 AM - 10:45 AM"
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+    - speaker : "Krista Burdine"
+      speaker_image : "images/speakers/krista-burdine-thumb.jpg"
       subject : "Deep in the Heart of Rocky: Project Tour, SIG Showcase, and Contributor Orientation for Rocky Linux (Sponsor: Rocky Linux)"
       venue : "Room 5"
       time : "10:00 AM - 12:45 PM"
