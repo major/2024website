@@ -377,7 +377,7 @@
 	.schedule-contents{
 		margin-top: 30px;
 		margin-bottom: 30px;
-		padding: 30px;
+		padding: 0px;
 		.schedule-item{
 			ul{
 				li{
@@ -387,39 +387,53 @@
 					}
 					.time{
 						width: 20%;
-						@include tablet {
-							width: 37%;
-						}
-						@include mobile {
-							width: 48%;
-						}
-					}
-					.speaker{
-						width: 30%;
-						@include desktop-sm {
-							width: 50%;
-						}
-						@include tablet {
-							width: 60%;
-						}
-						@include mobile {
-							width: 50%;
-						}
-						img {
-							@include mobile {
+						@include large-desktop {
+							width: 12%;
+							i.fa-clock-o {
 								display: none;
 							}
 						}
+						@include desktop-sm {
+							width: 16%;
+						}
+						@include tablet {
+							width: 21%;
+						}
 					}
-					.subject{
-						width: 30%;
+					.speaker{
+						width: 35%;
 						@include large-desktop {
+							width: 38%;
+						}
+						@include desktop-sm {
+							width: 27%;
+							img {
+								display: none;
+							}
+						}
+						@include tablet {
 							display: none;
 						}
 					}
-					.venue{
+					.subject{
+						width: 35%;
+						@include large-desktop {
+							width: 40%;
+						}
+						@include desktop-sm {
+							width: 44%;
+						}
 						@include tablet {
-							display: none;
+							width: 62%;
+						}
+					}
+					.venue{
+						width: 8%;
+						@include desktop-sm {
+							width: 11%;
+						}
+						@include tablet {
+							width: 15%;
 						}
 					}
 				}
@@ -456,11 +470,14 @@
 						}
 						span.time{
 							margin-left: 5px;
+							@include large-desktop {
+								margin-left: 0;
+							}
 						}
 						span.name{
 							margin-left: 20px;
 							transition: .2s ease-in;
-							@include mobile {
+							@include desktop-sm {
 								margin-left: 0;
 							}
 						}
