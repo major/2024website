@@ -632,6 +632,10 @@ sponsors:
       - name: "RISC-V"
         logo: "images/sponsors/risc-v.webp"
 
+      - name: "PyTexas"
+        logo: "images/sponsors/pytexas.png"
+        link: "https://www.pytexas.org"
+
   - name: "Media & Swag"
     sponsor_item:
       - name: "Jupiter Broadcasting"
