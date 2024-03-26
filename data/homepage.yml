@@ -84,9 +84,9 @@ tab:
       venue : "Room 4"
       time : "9:50 AM - 10:15 AM"
 
-    - speaker : "Rachel Leekin"
-      speaker_image : "images/speakers/rachel-leekin-thumb.jpg"
-      subject : "Beyond Admission Webhooks"
+    - speaker : "Natalie Lunbeck"
+      speaker_image : "images/speakers/natalie-lunbeck.jpg"
+      subject : "Ephemeral Environments: Redefining Pre-Production"
       venue : "Room 5"
       time : "9:50 AM - 10:15 AM"
 
@@ -97,9 +97,9 @@ tab:
       time : "10:00 AM - 5:00 PM"
 
 
-    - speaker : "Miley Fu"
-      speaker_image : "images/speakers/miley-fu-thumb.jpg"
-      subject : "Self-host Portable Open Source LLMs Across Devices & Cloud-Native Environments"
+    - speaker : "Joonas Burgius"
+      speaker_image : "images/speakers/jonas-burgius.jpg"
+      subject : "Closing The Gap: Extending Kubernetes from Cloud to Edge with WebAssembly"
       venue : "Room 4"
       time : "10:25 AM - 10:50 AM"
 
@@ -172,7 +172,13 @@ tab:
 
     - subject : "KCD Lightning Talks"
       venue : "Room 4"
-      time : "4:15 PM - 4:30 PM"
+      time : "4:15 PM - 4:35 PM"
+    
+    - speaker : "Andrew Martin"
+      speaker_image : "images/speakers/andrew-martin.jpg"
+      subject : "Mini-CTF Workshop"
+      venue : "Room 5"
+      time : "4:15 PM - 4:45 PM"
 
     - speaker : "Cody Lee Cochran"
       speaker_image : "images/speakers/cody-lee-cochran-thumb.jpg"
