@@ -393,6 +393,7 @@
 						display: inline-block;
 					}
 					.time{
+						padding: 0px 5px 0px 0px;
 						width: 20%;
 						@include large-desktop {
 							width: 12%;
@@ -404,10 +405,11 @@
 							width: 16%;
 						}
 						@include tablet {
-							width: 21%;
+							width: 24%;
 						}
 					}
 					.speaker{
+						padding: 0px 5px;
 						width: 35%;
 						@include large-desktop {
 							width: 38%;
@@ -423,6 +425,7 @@
 						}
 					}
 					.subject{
+						padding: 0px 5px;
 						width: 35%;
 						@include large-desktop {
 							width: 40%;
@@ -431,16 +434,17 @@
 							width: 44%;
 						}
 						@include tablet {
-							width: 62%;
+							width: 52%;
 						}
 					}
 					.venue{
+						padding: 0px 0px 0px 5px;
 						width: 8%;
 						@include desktop-sm {
 							width: 11%;
 						}
 						@include tablet {
-							width: 15%;
+							width: 20%;
 						}
 					}
 				}
@@ -482,6 +486,7 @@
 							border-radius: 100%;
 						}
 						span.time{
+							padding: 0px 0px;
 							margin-left: 5px;
 							@include large-desktop {
 								margin-left: 0;
