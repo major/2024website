@@ -85,7 +85,7 @@ tab:
       time : "9:50 AM - 10:15 AM"
 
     - speaker : "Natalie Lunbeck"
-      speaker_image : "images/speakers/natalie-lunbeck.jpg"
+      speaker_image : "images/speakers/natalie-lunbeck-thumb.jpg"
       subject : "Ephemeral Environments: Redefining Pre-Production"
       venue : "Room 5"
       time : "9:50 AM - 10:15 AM"
@@ -96,9 +96,8 @@ tab:
       venue : "Exhibit Hall 2"
       time : "10:00 AM - 5:00 PM"
 
-
     - speaker : "Joonas Burgius"
-      speaker_image : "images/speakers/jonas-burgius.jpg"
+      speaker_image : "images/speakers/joonas-bergius-thumb.jpg"
       subject : "Closing The Gap: Extending Kubernetes from Cloud to Edge with WebAssembly"
       venue : "Room 4"
       time : "10:25 AM - 10:50 AM"
@@ -175,7 +174,7 @@ tab:
       time : "4:15 PM - 4:35 PM"
     
     - speaker : "Andrew Martin"
-      speaker_image : "images/speakers/andrew-martin.jpg"
+      speaker_image : "images/speakers/andrew-martin-thumb.jpg"
       subject : "Mini-CTF Workshop"
       venue : "Room 5"
       time : "4:15 PM - 4:45 PM"
