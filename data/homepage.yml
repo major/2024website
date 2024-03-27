@@ -172,7 +172,7 @@ tab:
     - subject : "KCD Lightning Talks"
       venue : "Room 4"
       time : "4:15 PM - 4:35 PM"
-    
+
     - speaker : "Andrew Martin"
       speaker_image : "images/speakers/andrew-martin-thumb.jpg"
       subject : "Mini-CTF Workshop"
@@ -588,12 +588,20 @@ sponsors:
     sponsor_item:
       - name : "redhat"
         logo : "images/sponsors/redhat.svg"
+        link: "https://www.redhat.com"
+
       - name: "elastic"
         logo: "images/sponsors/elastic.svg"
+        link: "https://www.elastic.co"
+
       - name: "rocky-linux"
         logo: "images/sponsors/rocky-linux.png"
+        link: "https://rockylinux.org"
+
       - name: "rezoomex"
         logo: "images/sponsors/rezoomex_logo.svg"
+        link: "https://rezoomex.com"
+
       - name: "Akuity"
         logo: "images/sponsors/akuity.svg"
         link: "https://akuity.io"
@@ -621,6 +629,7 @@ sponsors:
     sponsor_item:
       - name: "Civo"
         logo: "images/sponsors/civo.svg"
+        link: "https://www.civo.com"
 
   - name: "Exhibitors"
     sponsor_item:
@@ -630,6 +639,7 @@ sponsors:
 
       - name: "RISC-V"
         logo: "images/sponsors/risc-v.webp"
+        link: "https://www.meetup.com/austin-area-risc-v-group/"
 
       - name: "PyTexas"
         logo: "images/sponsors/pytexas.png"
@@ -640,9 +650,11 @@ sponsors:
       - name: "Jupiter Broadcasting"
         logo: "images/sponsors/jupiterbroadcasting.png"
         link: "https://jupiterbroadcasting.com"
+
       - name: "Kube Events"
         logo: "images/sponsors/kube-events.svg"
         link: "https://kube.events"
+
       - name: "Sticker Mule"
         logo: "images/sponsors/sticker-mule.svg"
         link: "https://mule.to/p5mk"
