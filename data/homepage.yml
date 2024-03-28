@@ -452,7 +452,7 @@ sponsorship_pricing:
   - name: |
       Diamond <small>(Thanks <a href="/sponsors/scinary">Scinary</a>!)</small>
     button_text: "Thanks to Scinary for being our Diamond Sponsor!"
-    price : "8000"
+    price : "<s>8000</s> <small>sold out</small>"
     price_per : "Sponsor"
     button_link : "sponsors/scinary"
     description: "The Diamond Sponsorship package provides your organization with top level visibility at the Texas Linux Fest. This exclusive package will demonstrate your organization’s leadership role in the Linux and open-source community."
@@ -469,7 +469,7 @@ sponsorship_pricing:
     - "Helps make TXLF possible!"
 
   - name : "Platinum"
-    price : "6500"
+    price : "<s>6500</s> <small>sold out</small>"
     price_per : "Sponsor"
     button_link : "contact/"
     description: "The Platinum Sponsorship package allows your organization to participate in high profile marketing opportunities at the Texas Linux Fest."
@@ -484,7 +484,7 @@ sponsorship_pricing:
     - "Helps make TXLF possible!"
 
   - name : "Gold"
-    price : "5000"
+    price : "5000 <small>(one left)</small>"
     price_per : "Sponsor"
     button_link : "contact/"
     description: "The Gold Sponsorship package allows your organization to participate in high profile marketing opportunities at the Texas Linux Fest."
