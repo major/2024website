@@ -62,8 +62,6 @@ speakers:
 ###################### Tab ####################
 tab:
   enable : true
-  title : "Event Schedule"
-  content : "The schedule of events is subject to change without prior notifications."
   tablist:
   # tab item
   - name : "Day 1"
@@ -416,8 +414,6 @@ registration:
 ############ Pricing ####################
 pricing:
   enable : true
-  title : "Get _Tickets_"
-  content : "Event Pricing for Texas Linux Festival 2024"
   pricing_table:
   #- name : "Early Bird Ticket"
   #  price : "50.00"
@@ -564,9 +560,6 @@ call_to_action:
 sponsors:
   enable : true
   hide_sponsors_on_homepage: false
-  title : "Our _Sponsors_"
-  content : "Our Sponsors allow us to continue to provide conferences!"
-  content_hidden_sponsors: "Our Sponsors allow us to continue to provide conferences!"
   button:
     enable : true
     label : "Become a sponsor"

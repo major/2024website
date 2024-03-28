@@ -8,5 +8,6 @@ ignore_header: true
 layout: "sponsor"
 ---
 
-## Check out our _Sponsors_!_
-This could be you! [See our Sponsorship Prospectus ](/sponsorship)
+### Our _Sponsors_
+
+Our Sponsors allow us to continue to provide conferences!
