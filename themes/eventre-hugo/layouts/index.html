@@ -52,7 +52,7 @@
         <div class="content-block">
           <h2>{{.title | markdownify}}</h2>
           <div class="description-one">
-            {{ .content | markdownify}}
+            <p>{{ .content | markdownify}}<p>
           </div>
           <ul class="list-inline">
             {{ if .button_solid.enable }}
