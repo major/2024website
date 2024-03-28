@@ -9,7 +9,7 @@ ignore_header: true
 
 ---
 
-## Code of Conduct at _Texas Linux Festival_
+### Code of Conduct at _Texas Linux Festival_
 
 Texas Linux Festival is a community conference intended for networking and collaboration in the open source community.
 <br /><br />
@@ -20,7 +20,7 @@ We value the participation of each member of the Texas Linux Festival (TXLF) com
 To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers, and volunteers at any TXLF event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 <br /><br />
 
-### The Short Version
+#### The Short Version
 
 TXLF is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
 <br /><br />
@@ -36,7 +36,7 @@ Attendees violating these rules may be asked to leave the conference without a r
 
 Thank you for helping make this a welcoming, friendly event for all.
 
-### The Longer Version
+#### The Longer Version
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 <br /><br />
@@ -64,10 +64,10 @@ If the matter is especially urgent, please call/contact any of these individuals
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 <br /><br />
 
-## Procedure for Handling Harassment
+### Procedure for Handling Harassment
 <br />
 
-### Attendee Procedure for Incident Handling
+#### Attendee Procedure for Incident Handling
 This procedure has been adopted from the Ada Initiative’s guide titled “Conference anti-harassment/Responding to Reports”
 
 1. Keep in mind that all conference staff will be wearing a conference t-shirt/button with the word STAFF on it (or otherwise clearly marked as staff). The staff will also be prepared to handle the incident. All of our staff are informed of the code of conduct policy and guide for handling harassment at the conference. There will be a mandatory staff meeting onsite at the conference when this will be reiterated.
@@ -96,7 +96,7 @@ A listing of TXLF staff is located on this page, including contact phone numbers
 - **Ted Gould (Conference Chairman)**
 <br /><br />
 
-### Staff Procedure for incident handling
+#### Staff Procedure for incident handling
 This procedure has been adopted from the Ada Initiative’s guide titled ["Conference anti-harassment/Responding to Reports"](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports).
 <br /><br />
 
@@ -162,5 +162,5 @@ If some attendees were angered by the incident, it is best to apologize to them 
 A listing of TXLF staff is located on this page, including contact phone numbers. If at all possible, all reports should be made directly to the staff listed on this page.
 <br /><br />
 
-### License
+#### License
 This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy%22%22) which is under a Creative Commons Zero license.
