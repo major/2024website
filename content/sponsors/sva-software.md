@@ -2,7 +2,7 @@
 title : "Silver Sponsor: SVA Software"
 page_header_bg : "images/sponsors/SVASoftware_Logo_4C.png"
 date: 2024-02-08
-description : "Texas Linux Festival Silver Sponsor: Scinary Cybersecurity"
+description : "Texas Linux Fest 2024 - Silver Sponsor: SVA Software"
 draft : false
 layout: "single"
 ignore_header: true

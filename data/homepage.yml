@@ -446,8 +446,8 @@ pricing:
 
 sponsorship_pricing:
   enable : true
-  title : "_Sponsor Us_"
-  content : "Sponsorship Prospectus Pricing for Texas Linux Festival 2024. Now includes sponsorship of Kubernetes Community Days Texas! With KCD Texas being co-located sponsorships include both events (what a deal!)."
+  title : "Sponsorship _Prospectus_"
+  content : "Sponsorship pricing for Texas Linux Festival 2024. Now includes sponsorship of Kubernetes Community Days Texas! With KCD Texas being co-located sponsorships include both events (what a deal!)."
   pricing_table:
   - name: |
       Diamond <small>(Thanks <a href="/sponsors/scinary">Scinary</a>!)</small>

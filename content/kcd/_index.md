@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Community Days"
 page_header_bg: "images/colo-events/kcd-logo.svg"
+description : "Texas Linux Fest 2024 - Kubernetes Community Days"
 layout: "single"
 ignore_header: true
 ---
