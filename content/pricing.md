@@ -6,7 +6,3 @@ description : "Texas Linux Fest 2024 - Pricing"
 draft : false
 layout : "pricing"
 ---
-
-### Get _Tickets_
-
-Event Pricing for Texas Linux Festival 2024

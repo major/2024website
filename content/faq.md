@@ -6,5 +6,3 @@ description : "Texas Linux Fest 2024 - FAQ"
 draft : false
 layout : "faq"
 ---
-
-### Frequently Asked _Questions_

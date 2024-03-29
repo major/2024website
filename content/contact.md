@@ -6,7 +6,3 @@ description : "Texas Linux Fest 2024 - Contact"
 draft : false
 layout : "contact"
 ---
-
-## Get in _Touch_
-
-Contact the organizers.

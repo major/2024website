@@ -7,7 +7,3 @@ draft : false
 ignore_header: true
 layout: "sponsor"
 ---
-
-### Our _Sponsors_
-
-Our Sponsors allow us to continue to provide conferences!

@@ -62,6 +62,8 @@ speakers:
 ###################### Tab ####################
 tab:
   enable : true
+  title : "Event _Schedule_"
+  content : "The schedule of events is subject to change without prior notifications."
   tablist:
   # tab item
   - name : "Day 1"
@@ -414,6 +416,8 @@ registration:
 ############ Pricing ####################
 pricing:
   enable : true
+  title : "Get _Tickets_"
+  content : "Event Pricing for Texas Linux Festival 2024."
   pricing_table:
   #- name : "Early Bird Ticket"
   #  price : "50.00"
@@ -560,6 +564,9 @@ call_to_action:
 sponsors:
   enable : true
   hide_sponsors_on_homepage: false
+  title : "Our _Sponsors_"
+  content : "Our sponsors allow us to continue to provide conferences!"
+  content_hidden_sponsors: "Our sponsors allow us to continue to provide conferences!"
   button:
     enable : true
     label : "Become a sponsor"
@@ -654,6 +661,7 @@ sponsors:
 
 ############### FAQ ##################
 faq:
+  title: "Frequently Asked _Questions_"
   questions:
   - question : "Any refunds?"
     ref : "any-refunds"
@@ -662,3 +670,8 @@ faq:
   - question : "Covid 2020 Cancellation Ticket Redemption"
     ref : "covid-2020-cancellation-ticket-redemption"
     answer : "If you purchased a ticket during our planned 2020 Texas Linux Festival that was cancelled due to COVID health concerns.  If you'd like to redeem this for the 2024 event, reach out to info@texaslinuxfest.org for registration if you did not receive a coupon code by email. Please provide your receipt.If you'd like a refund instead, reach out to info@texaslinuxfest.org and provide your receipt."
+
+############ Contact ####################
+contact:
+  title : "Get in _Touch_"
+  content : "Contact the organizers."
