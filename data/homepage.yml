@@ -659,6 +659,10 @@ sponsors:
         logo: "images/sponsors/pytexas.png"
         link: "https://www.pytexas.org"
 
+      - name: "Fedora"
+        logo: "images/sponsors/fedora.svg"
+        link: "https://fedoraproject.org"
+
   - name: "Media & Swag"
     sponsor_item:
       - name: "Jupiter Broadcasting"
