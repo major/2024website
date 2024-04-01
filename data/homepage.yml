@@ -582,7 +582,7 @@ sponsors:
     sponsor_item:
     - name: "Scinary Cybersecurity"
       logo: "images/sponsors/diamond-spon-one.png"
-      link : "/sponsors/scinary"
+      link : "https://www.scinary.com"
 
   - name : "Platinum Sponsors"
     sponsor_item:
@@ -616,7 +616,7 @@ sponsors:
     sponsor_item:
       - name : "SVA"
         logo : "images/sponsors/SVASoftware_Logo_4C.png"
-        link: "/sponsors/sva-software"
+        link: "https://www.svasoftware.com"
 
       - name: "SigLens"
         logo: "images/sponsors/siglens.png"
