@@ -626,6 +626,10 @@ sponsors:
         logo: "images/sponsors/groundcover.svg"
         link: "https://www.groundcover.com"
 
+      - name: "Meta"
+        logo: "images/sponsors/meta.png"
+        link: "https://about.meta.com"
+
   #- name : "Community Sponsors"
   #  sponsor_item:
   #  - name : "sponsor"
