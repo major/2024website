@@ -663,6 +663,10 @@ sponsors:
         logo: "images/sponsors/fedora.svg"
         link: "https://fedoraproject.org"
 
+      - name: "CentOS"
+        logo: "images/sponsors/centos.svg"
+        link: "centos.svg"
+
   - name: "Media & Swag"
     sponsor_item:
       - name: "Jupiter Broadcasting"
