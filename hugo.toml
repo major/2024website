@@ -73,7 +73,7 @@ attributes = ""
 link = "plugins/slick/slick.css"
 attributes = ""
 [[params.plugins.css]]
-link = "plugins/font-awesome/font-awesome.min.css"
+link = "plugins/fontawesome/css/all.min.css"
 attributes = ""
 [[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.min.css"
@@ -264,27 +264,28 @@ enable = false
 expire_days = 30
 
 ############################# social site ########################
+# fontawesome 6 https://fontawesome.com/search
 [[params.social]]
 title = "facebook"
-icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+icon = "fa-brands fa-facebook"
 link = "https://www.facebook.com/TexasLinuxFest/"
 
 [[params.social]]
 title = "twitter"
-icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+icon = "fa-brands fa-twitter"
 link = "https://twitter.com/texaslinuxfest"
 
 [[params.social]]
 title = "instagram"
-icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+icon = "fa-brands fa-instagram"
 link = "https://www.instagram.com/explore/tags/texaslinuxfest/"
 
 [[params.social]]
 title = "github"
-icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+icon = "fa-brands fa-github"
 link = "https://github.com/txlf"
 
 [[params.social]]
 title = "linkedin"
-icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+icon = "fa-brands fa-linkedin"
 link = "https://www.linkedin.com/groups/2828290/"
