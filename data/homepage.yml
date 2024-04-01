@@ -260,6 +260,12 @@ tab:
       venue : "Room 2"
       time : "11:00 AM - 11:45 AM"
 
+    - speaker : "Kyle J. Davis"
+      speaker_image : "images/speakers/kyle-j-davis-thumb.jpg"
+      subject : "Digging in to Valkey, an open source, in-memory data store"
+      venue : "Room 3"
+      time : "11:00 AM - 11:45 AM"
+
     - speaker : "Paul Novarese"
       speaker_image : "images/speakers/paul-novarese-thumb.jpg"
       subject : "The Legacy of Log4Shell and the Future of DevSecOps"
