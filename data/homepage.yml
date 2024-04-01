@@ -630,6 +630,10 @@ sponsors:
         logo: "images/sponsors/meta.png"
         link: "https://about.meta.com"
 
+      - name: "AlmaLinux"
+        logo: "images/sponsors/almalinux.png"
+        link: "https://almalinux.org"
+
   #- name : "Community Sponsors"
   #  sponsor_item:
   #  - name : "sponsor"
