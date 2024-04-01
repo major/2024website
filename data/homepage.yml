@@ -383,15 +383,15 @@ tab:
 
     ## 5:30 PM
 
-    - subject : "Raffle"
+    - subject : "Lightning talks"
       venue : "Exhibit Hall 2"
       time : "5:30 PM - 6:00 PM"
 
     ## 6:00 PM
 
-    - subject : "Lightning talks"
+    - subject : "Closing remarks"
       venue : "Exhibit Hall 2"
-      time : "6:00 PM - 6:30 PM"
+      time : "6:00 PM - 6:15 PM"
 
 ############ Registration ####################
 registration:
