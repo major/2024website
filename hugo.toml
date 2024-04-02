@@ -133,8 +133,8 @@ hasChildren = true
 
 # uncomment when call for papers is closed
 #[[menu.main]]
-#name = "Speaker"
-#url = "speaker/"
+#name = "Speakers"
+#url = "speakers/"
 #weight = 3
 
 [[menu.main]]

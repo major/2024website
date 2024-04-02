@@ -1,0 +1,51 @@
+{{ define "main" }}
+
+<section class="section single-talk">
+  <div class="container">
+    <div class="block">
+      <div class="row">
+        <div class="col-lg-5 col-md-6 align-self-md-center">
+          <div class="image-block">
+            {{ range .Params.speakers }}
+            {{ if .image }}
+            <a href="{{ .link | absURL }}">
+              <img src="{{ .image | absURL }}" class="img-fluid" alt="{{ .Title }}">
+            </a>
+            {{ end }}
+            {{ end }}
+          </div>
+        </div>
+        <div class="col-lg-7 col-md-6 align-self-center">
+          <div class="content-block">
+            <div class="name">
+              <h3>{{ .Title }}</h3>
+            </div>
+            <div class="details">
+              {{ .Content }}
+            </div>
+            <div class="when">
+              <h5>When</h5>
+              <p>{{ .Params.when }}</p>
+            </div>
+            <div class="where">
+              <h5>Where</h5>
+              <p>{{ .Params.where }}</p>
+            </div>
+            <div class="speakers">
+              <h5>Speaker{{ if gt (len .Params.speakers) 1 }}s{{end}}</h5>
+              <ul class="list-inline">
+                {{ range .Params.speakers }}
+                <li class="list-inline-item">
+                  <a class="btn btn-transparent-md" href="{{ .link | absURL }}">{{ .name }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
