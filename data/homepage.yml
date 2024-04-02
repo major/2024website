@@ -72,6 +72,14 @@ tab:
 
     ## 9:00 AM
 
+    - speaker: "Lukas Gentele"
+      speaker_image: "images/speakers/lukas-gentele-thumb.jpg"
+      speaker_link: "speakers/lukas-gentele/"
+      talk_link: "talks/kubernetes-multi-tenancy/"
+      subject: "Kubernetes Multi-Tenancy - Let's Lock Down A Kubernetes Cluster Together (Sponsor: Loft Labs)"
+      venue: "Room 1"
+      time: "9:00 AM - 4:15 PM"
+
     - speaker : "Chris Aniszczyk"
       speaker_image : "images/speakers/chris-aniszczyk-thumb.jpg"
       subject : "KCD Keynote"
@@ -149,12 +157,16 @@ tab:
 
     - speaker : "Richard Rios"
       speaker_image : "images/speakers/richard-rios-thumb.png"
+      speaker_link: "speakers/richard-rios/"
+      talk_link: "talks/rhel-security/"
       subject : "RHEL Security (Sponsor: Red Hat)"
       venue : "Room 2"
       time : "1:30 PM - 4:15 PM"
 
-    - speaker : "TBD"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
+    - speaker: "Ravi Verma"
+      speaker_image: "images/speakers/ravi-verma-thumb.jpg"
+      speaker_link: "speakers/ravi-verma/"
+      talk_link: "talks/smart-contract-driven-development/"
       subject : "Smart Contract Driven Development (Sponsor: Rezoomex)"
       venue : "Room 3"
       time : "1:30 PM - 4:15 PM"
@@ -258,6 +270,8 @@ tab:
 
     - speaker : "Krista Burdine"
       speaker_image : "images/speakers/krista-burdine-thumb.jpg"
+      speaker_link: "speakers/krista-burdine/"
+      talk_link: "talks/deep-in-the-heart-of-rocky/"
       subject : "Deep in the Heart of Rocky: Project Tour, SIG Showcase, and Contributor Orientation for Rocky Linux (Sponsor: Rocky Linux)"
       venue : "Room 5"
       time : "10:00 AM - 12:45 PM"
