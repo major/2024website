@@ -17,8 +17,10 @@
 						<div class="primary-overlay"></div>
 						<div class="socials">
 							<ul class="list-inline">
+                {{ if .Params.social }}
                 {{ range first 4 .Params.social }}
                 <li class="list-inline-item"><a href="{{.link | safeURL }}"><i class="fa {{.icon}}"></i></a></li>
+                {{ end }}
                 {{ end }}
 							</ul>
 						</div>
