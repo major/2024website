@@ -178,8 +178,8 @@ tab:
     - speaker : "Richard Rios"
       speaker_image : "images/speakers/richard-rios-thumb.png"
       speaker_link: "speakers/richard-rios/"
-      talk_link: "talks/rhel-security/"
-      subject : "RHEL Security (Sponsor: Red Hat)"
+      talk_link: "talks/red-hat-enterprise-linux-security-technologies-workshop/"
+      subject: "Red Hat Enterprise Linux Security Technologies Workshop (Sponsor: Red Hat)"
       venue : "Room 2"
       time : "1:30 PM - 4:15 PM"
 
