@@ -707,7 +707,7 @@ sponsors:
         link: "https://akuity.io"
 
       - name: "AWS"
-        logo: "images/sponsors/aws.png"
+        logo: "images/sponsors/aws.svg"
         link: "https://aws.amazon.com/opensource/"
 
   - name : "Silver Sponsors"
