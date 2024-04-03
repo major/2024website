@@ -72,6 +72,14 @@ tab:
 
     ## 9:00 AM
 
+    - speaker : "Chris Aniszczyk"
+      speaker_image : "images/speakers/chris-aniszczyk-thumb.jpg"
+      speaker_link: "https://kcd-texas.sessionize.com/speaker/144888ea-2819-4277-8607-ae777a2b15e0"
+      talk_link: "https://kcd-texas.sessionize.com/session/657929"
+      subject: "KCD Keynote: Container Growth & The Need for Vendor Neutral Container Specifications"
+      venue : "Exhibit Hall 2"
+      time : "9:00 AM - 9:50 AM"
+
     - speaker: "Lukas Gentele"
       speaker_image: "images/speakers/lukas-gentele-thumb.jpg"
       speaker_link: "speakers/lukas-gentele/"
@@ -87,14 +95,6 @@ tab:
       subject: "Advanced GitOps Certification (Sponsor: Akuity)"
       venue: "Room 3"
       time : "9:00 AM - 11:45 AM"
-
-    - speaker : "Chris Aniszczyk"
-      speaker_image : "images/speakers/chris-aniszczyk-thumb.jpg"
-      speaker_link: "https://kcd-texas.sessionize.com/speaker/144888ea-2819-4277-8607-ae777a2b15e0"
-      talk_link: "https://kcd-texas.sessionize.com/session/657929"
-      subject: "KCD Keynote: Container Growth & The Need for Vendor Neutral Container Specifications"
-      venue : "Room 4"
-      time : "9:00 AM - 9:50 AM"
 
     - speaker : "Matt Butcher"
       speaker_image : "images/speakers/matt-butcher-thumb.jpg"
