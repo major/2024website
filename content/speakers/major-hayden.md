@@ -26,13 +26,8 @@ talks:
     link: "talks/automated-container-updates-with-github-coreos/"
 ---
 
-Major Hayden is a senior principal software engineer at Red Hat working on
-scaling systems, processes, and teams. His most recent project was the
-Continuous Kernel Integration Project (CKI) which provides timely CI for
-upstream Linux kernel trees and internal kernels at Red Hat. He contributes to
-the Fedora Project and was a contributor to OpenStack at Rackspace.
+Major Hayden is a senior principal software engineer at Red Hat focused on Red Hat Enterprise Linux in public clouds.
+He also serves on the Fedora Engineering Steering Committee (FESCo) and is a member of Fedora's Cloud SIG.
 
-In his spare time, he's on the air as an amateur radio operator (W5WUT) and on
-the trails as a novice overlander. Major also operates the incredibly popular
-(and slightly useless) icanhazip.com. You can read his blog at:
-https://major.io/
+In his spare time, he's on the air as an amateur radio operator ([W5WUT](https://w5wut.com)) and on the trails as a novice overlander.
+Major writes often on his personal blog at [major.io](https://major.io) about a variety of technical topics.
