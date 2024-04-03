@@ -200,21 +200,27 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Venue"
+  name = "Map"
+  url = "map/"
+  weight = 10
+
+  [[menu.main]]
+  parent = "Venue"
   name = "Location"
   url = "https://www.palmereventscenter.com/attend/"
-  weight = 1
+  weight = 20
 
   [[menu.main]]
   parent = "Venue"
   name = "Hotels"
   url = "venue_hotels/"
-  weight = 2
+  weight = 30
 
   [[menu.main]]
   parent = "Venue"
   name = "Parking"
   url = "https://www.palmereventscenter.com/directions-and-parking/"
-  weight = 3
+  weight = 40
 
 
 [[menu.main]]
