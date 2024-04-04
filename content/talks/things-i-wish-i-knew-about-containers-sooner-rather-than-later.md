@@ -18,8 +18,14 @@ and containers were not a focus for some time. Containers have undeniably
 impacted the industry, and my learning journey started at square one. This
 session will begin with the perspective of a systems administrator who needs to
 understand the role containers can play in an environment. We'll touch on a
-wide array of topics: - Linux technologies that make containers happen -
-Different container runtimes - Container networking - Container storage -
-Multi-container management - Building a custom container The attendee will gain
-an understanding of container topics that go beyond what a container is and
-focus on how containers integrate into an environment.
+wide array of topics:
+
+- Linux technologies that make containers happen
+- Different container runtimes
+- Container networking
+- Container storage
+- Multi-container management
+- Building a custom container
+
+The attendee will gain an understanding of container topics that go beyond what
+a container is and focus on how containers integrate into an environment.
