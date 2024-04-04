@@ -2,6 +2,7 @@
 title: "Red Hat Enterprise Linux Security Technologies Workshop (Sponsor: Red Hat)"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
+format: "Workshop"
 when: "Friday, April 12, 1:30 PM - 4:15 PM"
 where: "Room 2"
 

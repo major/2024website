@@ -2,6 +2,7 @@
 title: "Smart Contract Driven Development (Sponsor: Rezoomex)"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
+format: "Workshop"
 when: "Friday, April 12, 1:30 PM - 4:15 PM"
 where: "Room 3"
 

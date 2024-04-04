@@ -2,6 +2,7 @@
 title: "TXLF Keynote: How To (Not) Get Into Tech"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
+format: "Presentation"
 when: "Saturday, April 12, 9:00 AM - 9:45 AM"
 where: "Exhibit Hall 2"
 

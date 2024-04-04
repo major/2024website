@@ -2,6 +2,7 @@
 title: "Mastering Cluster API and GitOps: A Deep Dive into Extensible Components for Building Production-Ready Kubernetes Clusters"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
+format: "Workshop"
 when: "Friday, April 12, 4:30 PM - 5:45 PM"
 where: "Room 3"
 

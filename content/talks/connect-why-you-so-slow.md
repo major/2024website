@@ -2,6 +2,7 @@
 title: "connect() - why you so slow?!"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
+format: "Presentation"
 when: "Saturday, April 13, 12:00 PM - 12:45 PM"
 where: "Room 4"
 

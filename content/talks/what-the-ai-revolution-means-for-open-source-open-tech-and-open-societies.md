@@ -2,6 +2,7 @@
 title: "What the AI revolution means for Open Source, Open Tech and Open Societies"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
+format: "Presentation"
 when: "Saturday, April 13, 2:30 PM - 3:15 PM"
 where: "Room 3"
 

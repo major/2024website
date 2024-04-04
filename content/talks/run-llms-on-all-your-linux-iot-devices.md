@@ -2,6 +2,7 @@
 title: "Run LLMs on all your Linux IoT devices"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
+format: "Presentation"
 when: "Saturday, April 13, 3:30 PM - 4:15 PM"
 where: "Room 4"
 

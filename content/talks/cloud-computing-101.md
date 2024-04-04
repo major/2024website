@@ -2,6 +2,7 @@
 title: "Cloud Computing 101"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
+format: "Presentation"
 when: "Saturday, April 13, 11:00 AM - 11:45 AM"
 where: "Room 2"
 

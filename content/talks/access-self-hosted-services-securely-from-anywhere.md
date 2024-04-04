@@ -2,6 +2,7 @@
 title: "Access self-hosted services securely from anywhere"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
+format: "Presentation"
 when: "Saturday, April 13, 4:30 PM - 5:15 PM"
 where: "Room 4"
 

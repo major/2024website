@@ -2,6 +2,7 @@
 title: "Enterprise Automation with AWX (upstream for Ansible Automation Platform)"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
+format: "Presentation"
 when: "Saturday, April 12, 10:00 AM - 10:45 AM"
 where: "Room 4"
 

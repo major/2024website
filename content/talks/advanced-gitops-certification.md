@@ -2,6 +2,7 @@
 title: "Advanced GitOps Certification (Sponsor: Akuity)"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
+format: "Workshop"
 when: "Friday, April 12, 9:00 AM - 11:45 AM"
 where: "Room 3"
 
