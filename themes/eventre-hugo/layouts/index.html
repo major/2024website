@@ -198,16 +198,27 @@
                       <span class="time">{{ .time }}</span>
                     </div>
                     <!-- Speaker -->
+                    {{ if .speaker_link }}
                     <a href="{{ .speaker_link | absURL }}">
                       <div class="speaker">
                         <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}">
                         <span class="name">{{.speaker}}</span>
                       </div>
                     </a>
+                    {{ else }}
+                    <div class="speaker">
+                      <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}">
+                      <span class="name">{{.speaker}}</span>
+                    </div>
+                    {{ end }}
                     <!-- Subject -->
+                    {{ if .talk_link }}
                     <a href="{{ .talk_link | absURL }}">
                       <div class="subject">{{ .subject }}</div>
                     </a>
+                    {{ else }}
+                    <div class="subject">{{ .subject }}</div>
+                    {{ end }}
                     <!-- Venue -->
                     <div class="venue">{{ .venue | markdownify }}</div>
                   </div>
