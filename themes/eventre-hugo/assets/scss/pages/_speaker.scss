@@ -23,11 +23,10 @@
 			.profession{
 				p{
 					color: $primary-color;
-					font-size: 0.9375rem;
 				}
-				margin-bottom: 20px;
 			}
 			.details{
+				margin-top: 20px;
 				p{
 					font-size: 0.9375rem;
 					&:not(:last-child){

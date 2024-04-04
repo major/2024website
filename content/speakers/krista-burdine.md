@@ -15,7 +15,7 @@ social:
   link: "https://www.linkedin.com/in/krista-burdine/"
 
 talks:
-  - title: "Deep in the Heart of Rocky: Project Tour, SIG Showcase, and Contributor Orientation for Rocky Linux (Sponsor: Rocky Linux)"
+  - title: "Deep in the Heart of Rocky: Project Tour, SIG Showcase, and Contributor Orientation for Rocky Linux"
     link: "talks/deep-in-the-heart-of-rocky/"
 
 ---

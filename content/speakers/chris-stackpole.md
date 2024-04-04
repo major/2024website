@@ -8,7 +8,7 @@ talks:
   - title: "Find Your Way to Open Source Contribution with OpenStreetMap"
     link: "talks/find-your-way-to-open-source-contribution-with-openstreetmap/"
 
-  - title: "Deep in the Heart of Rocky: Project Tour, SIG Showcase, and Contributor Orientation for Rocky Linux (Sponsor: Rocky Linux)"
+  - title: "Deep in the Heart of Rocky: Project Tour, SIG Showcase, and Contributor Orientation for Rocky Linux"
     link: "talks/deep-in-the-heart-of-rocky/"
 ---
 

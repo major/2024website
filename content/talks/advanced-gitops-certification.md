@@ -1,5 +1,6 @@
 ---
-title: "Advanced GitOps Certification (Sponsor: Akuity)"
+title: "Advanced GitOps Certification"
+sponsor: "Akuity"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
 format: "Workshop"

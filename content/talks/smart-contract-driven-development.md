@@ -1,5 +1,6 @@
 ---
-title: "Smart Contract Driven Development (Sponsor: Rezoomex)"
+title: "Smart Contract Driven Development"
+sponsor: "Rezoomex"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
 format: "Workshop"

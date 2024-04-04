@@ -15,7 +15,7 @@ social:
   link: "https://www.linkedin.com/in/amatyushentsev/"
 
 talks:
-  - title: "Advanced GitOps Certification (Sponsor: Akuity)"
+  - title: "Advanced GitOps Certification"
     link: "talks/advanced-gitops-certification/"
 ---
 

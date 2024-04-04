@@ -18,10 +18,16 @@
 			.name{
 				h3{
 					font-weight: 400;
-					margin-bottom: 20px;
+				}
+			}
+			.sponsor{
+				margin-top: 10px;
+				p{
+					color: $primary-color;
 				}
 			}
 			.details{
+				margin-top: 20px;
 				p, ul{
 					font-size: 0.9375rem;
 					&:not(:last-child){

@@ -11,7 +11,7 @@ social:
   link: "https://www.linkedin.com/in/gentele/"
 
 talks:
-  - title: "Kubernetes Multi-Tenancy - Let's Lock Down A Kubernetes Cluster Together (Sponsor: Loft Labs)"
+  - title: "Kubernetes Multi-Tenancy - Let's Lock Down A Kubernetes Cluster Together"
     link: "talks/kubernetes-multi-tenancy/"
 
 ---

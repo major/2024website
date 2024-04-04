@@ -11,7 +11,7 @@ social:
   link: "https://www.linkedin.com/in/richard-ríos-ab65278/"
 
 talks:
-  - title: "Red Hat Enterprise Linux Security Technologies Workshop (Sponsor: Red Hat)"
+  - title: "Red Hat Enterprise Linux Security Technologies Workshop"
     link: "talks/red-hat-enterprise-linux-security-technologies-workshop/"
 ---
 

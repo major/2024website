@@ -20,6 +20,11 @@
             <div class="name">
               <h3>{{ .Title }}</h3>
             </div>
+            {{ if .Params.sponsor }}
+            <div class="sponsor">
+              <p>Sponsored by {{ .Params.sponsor }}</p>
+            </div>
+            {{ end }}
             <div class="details">
               {{ .Content }}
             </div>

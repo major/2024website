@@ -1,5 +1,6 @@
 ---
-title: "Kubernetes Multi-Tenancy - Let's Lock Down A Kubernetes Cluster Together (Sponsor: Loft Labs)"
+title: "Kubernetes Multi-Tenancy - Let's Lock Down A Kubernetes Cluster Together"
+sponsor: "Loft Labs"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
 format: "Workshop"

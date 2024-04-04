@@ -1,5 +1,6 @@
 ---
-title: "Red Hat Enterprise Linux Security Technologies Workshop (Sponsor: Red Hat)"
+title: "Red Hat Enterprise Linux Security Technologies Workshop"
+sponsor: "Red Hat"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
 format: "Workshop"

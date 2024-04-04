@@ -15,7 +15,7 @@ social:
   link: "https://www.linkedin.com/in/vinayak-joglekar-b95329"
 
 talks:
-  - title: "Smart Contract Driven Development (Sponsor: Rezoomex)"
+  - title: "Smart Contract Driven Development"
     link: "talks/smart-contract-driven-development/"
 ---
 
