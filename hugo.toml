@@ -121,15 +121,21 @@ hasChildren = true
 
   [[menu.main]]
   parent = "About TXLF"
+  name = "Speakers"
+  url = "speakers/"
+  weight = 2
+
+  [[menu.main]]
+  parent = "About TXLF"
   name = "Code Of Conduct"
   url = "code_of_conduct/"
-  weight = 2
+  weight = 3
 
   [[menu.main]]
   parent = "About TXLF"
   name = "FAQ"
   url = "faq/"
-  weight = 3
+  weight = 4
 
 # uncomment when call for papers is closed
 #[[menu.main]]

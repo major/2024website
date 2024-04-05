@@ -108,7 +108,6 @@
         {{ else }}
         <div class="section-title white">
           <h3>{{.title | markdownify }}</h3>
-          <p>{{ .content | markdownify }}</p>
         </div>
         {{ end }}
         {{ end }}
@@ -116,7 +115,8 @@
     </div>
     {{ if ( not site.Data.homepage.speakers.cfp_open ) }}
     <div class="row">
-      {{ range (where site.RegularPages "Section" "speaker") }}
+      {{ $speakers := where site.RegularPages "Section" "speakers" }}
+      {{ range where $speakers "Params.featured" "eq" true }}
       <div class="col-lg-3 col-md-4 col-sm-6">
         <!-- Speaker 1 -->
         <div class="speaker-item">
@@ -125,8 +125,10 @@
             <div class="primary-overlay"></div>
             <div class="socials">
               <ul class="list-inline">
+                {{ if .Params.social }}
                 {{ range first 4 .Params.social }}
                 <li class="list-inline-item"><a href="{{.link | safeURL }}"><i class="fa {{.icon}}"></i></a></li>
+                {{ end }}
                 {{ end }}
               </ul>
             </div>
@@ -137,7 +139,18 @@
           </div>
         </div>
       </div>
-      {{end}}
+      {{ end }}
+    </div>
+    <div class="row">
+      <div class="col-12">
+        {{ with site.Data.homepage.speakers }}
+        <div class="section-title white">
+          <div class="sponsor-btn text-center">
+            <a href="{{ .more_button_link | absURL }}" class="btn btn-main-md">{{ site.Data.homepage.speakers.more_button_text }}</a>
+          </div>
+        </div>
+        {{ end }}
+      </div>
     </div>
     {{ end }}
   </div>
