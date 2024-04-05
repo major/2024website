@@ -24,10 +24,13 @@
 	    <div class="hour" style="grid-row: 86/98">16:00</div>
 	    <div class="hour" style="grid-row: 98/110">17:00</div>
 	    <div class="hour" style="grid-row: 110/122">18:00</div>
+	    <div class="hour" style="grid-row: 122/134">19:00</div>
+	    <div class="hour" style="grid-row: 134/146">20:00</div>
+	    <div class="hour" style="grid-row: 146/158">21:00</div>
 
 	    {{ $rows_per_hour := 12 }}
 	    {{ $start_hour := 9 }}
-	    {{ $end_hour := 18 }}
+	    {{ $end_hour := 21 }}
 
 	    {{ range .tablist_items }}
 	    {{ $times := findRESubmatch `((\d+):(\d+))[^\d]*((\d+):(\d+))` .time }}

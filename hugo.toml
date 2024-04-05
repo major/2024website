@@ -133,9 +133,15 @@ hasChildren = true
 
   [[menu.main]]
   parent = "About TXLF"
+  name = "After Party"
+  url = "party/"
+  weight = 4
+
+  [[menu.main]]
+  parent = "About TXLF"
   name = "FAQ"
   url = "faq/"
-  weight = 4
+  weight = 5
 
 # uncomment when call for papers is closed
 #[[menu.main]]

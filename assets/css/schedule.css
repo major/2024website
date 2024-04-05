@@ -5,7 +5,7 @@ html {
 .grid-schedule {
     display: grid;
     grid-template-columns: 1fr repeat(6, 3fr);
-    grid-template-rows: 50px repeat(120, 10px);
+    grid-template-rows: 50px repeat(156, 10px);
     border: solid grey;
     border-radius: 5px;
     padding: 5px;

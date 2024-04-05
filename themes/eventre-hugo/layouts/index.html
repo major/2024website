@@ -430,7 +430,13 @@
         {{range .sponsor_group }}
         <!-- Title -->
         <div class="sponsor-title text-center">
+          {{ if .link }}
+          <a href="{{ .link | absURL }}">
+            <h5>{{ .name | markdownify }}</h5>
+          </a>
+          {{ else }}
           <h5>{{ .name | markdownify }}</h5>
+          {{ end }}
         </div>
         <div class="block text-center">
           <!-- Sponsors image list -->

@@ -1,28 +1,25 @@
 {{ define "main" }}
 
-{{ with site.Data.homepage.sponsors }}
-<section class="sponsors section bg-sponsors overlay-white">
+{{ if not .Params.Ignore_header }}
+{{ partial "page-header.html" . }}
+{{ end }}
+
+<section class="sponsors section overlay-white party">
   <div class="container">
     <div class="row">
-      <div class="col-12">
-        <div class="section-title">
-          <h3>{{.title | markdownify}}</h3>
-          <p>{{ .content | markdownify}}</p>
+      <div class="col-lg-10 mx-auto">
+        <div class="content">
+          {{.Content | markdownify }}
         </div>
       </div>
     </div>
+    {{ with site.Data.homepage.sponsors }}
     <div class="row">
       <div class="col-12">
-        {{range .sponsor_group }}
+        {{ range where .sponsor_group ".name" "eq" "After Party Sponsors" }}
         <!-- Title -->
         <div class="sponsor-title text-center">
-          {{ if .link }}
-          <a href="{{ .link | absURL }}">
-            <h5>{{ .name | markdownify }}</h5>
-          </a>
-          {{ else }}
-          <h5>{{ .name | markdownify }}</h5>
-          {{ end }}
+          <h5>Sponsors</h5>
         </div>
         <div class="block text-center">
           <!-- Sponsors image list -->
@@ -39,17 +36,10 @@
           </ul>
         </div>
         {{ end }}
-        {{ if .button.enable }}
-        {{ with .button }}
-        <div class="sponsor-btn text-center">
-          <a href="{{ .link | absURL }}" class="btn btn-main-md">{{.label}}</a>
-        </div>
-        {{ end }}
-        {{ end }}
       </div>
     </div>
+    {{ end }}
   </div>
 </section>
-{{ end }}
 
 {{ end }}
