@@ -740,6 +740,10 @@ sponsors:
         logo: "images/sponsors/almalinux.png"
         link: "https://almalinux.org"
 
+      - name: "Cosmonic"
+        logo: "images/sponsors/cosmonic.png"
+        link: "https://cosmonic.com/"
+
   #- name : "Community Sponsors"
   #  sponsor_item:
   #  - name : "sponsor"
