@@ -9,7 +9,7 @@ ignore_header: true
 
 ---
 
-## Volunteering at _Texas Linux Festival_
+### Volunteering at _Texas Linux Festival_
 
 Texas Linux Fest 2019 was another huge success and it would not have been possible without our dedicated year-round staff and event-day volunteers. Their dedication to this event really and truly makes this event special to everyone that attends, sponsors and speaks.
 <br /><br />

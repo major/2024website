@@ -6,7 +6,7 @@ layout: "single"
 ignore_header: true
 ---
 
-### KCD Texas
+### Kubernetes Community Day _Texas_
 
 Join us on Friday, April 12th, for Kubernetes Community Day (KCD) Texas!
 This co-located event from the Cloud Native Computing Foundation (CNCF) will consist of two tracks of hands-on workshops and interactive sessions.

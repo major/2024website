@@ -9,7 +9,7 @@ ignore_header: true
 
 ---
 
-## Hotels for _Texas Linux Festival_
+### Hotels for _Texas Linux Festival_
 
 There are several hotel options available to attendees of Texas Linux Fest.
 <br/><br/>

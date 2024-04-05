@@ -7,6 +7,6 @@ ignore_header: true
 map_image: "images/map.png"
 ---
 
-## Map for _Texas Linux Festival_
+### Map for _Texas Linux Festival_
 
 Click to expand the map.
