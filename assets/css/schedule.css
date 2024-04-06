@@ -11,6 +11,15 @@ html {
     padding: 5px;
 }
 
+.grid-schedule-day {
+    display: grid;
+    grid-template-columns: 1fr 18fr;
+    grid-template-rows: 50px repeat(120, 10px);
+    border: solid grey;
+    border-radius: 5px;
+    padding: 5px;
+}
+
 .hour {
     grid-column: 1/8;
     border-top-color: grey;
@@ -18,7 +27,7 @@ html {
     border-top-width: 1px;
 }
 
-.grid-schedule header {
+.grid-schedule header, .grid-schedule-day header {
     margin-left: auto;
     margin-right: auto;
     font-size: medium;
