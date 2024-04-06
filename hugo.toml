@@ -147,6 +147,25 @@ hasChildren = true
 name = "Schedule"
 url = "schedule/"
 weight = 4
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Schedule"
+  name = "Day 1"
+  url = "/fpg-schedule-day-1"
+  weight = 10
+
+  [[menu.main]]
+  parent = "Schedule"
+  name = "Day 2"
+  url = "/fpg-schedule-day-2"
+  weight = 20
+
+  [[menu.main]]
+  parent = "Schedule"
+  name = "Full"
+  url = "/schedule"
+  weight = 30
 
 [[menu.main]]
 weight = 5

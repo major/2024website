@@ -1,3 +1,7 @@
+html {
+    font-family: "Montserrat", sans-serif;
+}
+
 .grid-schedule {
     display: grid;
     grid-template-columns: 1fr repeat(6, 3fr);

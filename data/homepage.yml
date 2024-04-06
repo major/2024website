@@ -740,6 +740,7 @@ tab:
     - subject : "Lightning talks"
       venue : "Exhibit Hall 2"
       time : "5:30 PM - 6:00 PM"
+      column: 7
       start_hour: 17
       start_minute: 30
       end_hour: 18
@@ -750,6 +751,7 @@ tab:
     - subject : "Closing remarks"
       venue : "Exhibit Hall 2"
       time : "6:00 PM - 6:15 PM"
+      column: 7
       start_hour: 18
       start_minute: 0
       end_hour: 18
