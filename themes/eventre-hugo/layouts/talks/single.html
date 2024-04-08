@@ -50,6 +50,18 @@
                 {{ end }}
               </ul>
             </div>
+            {{ if .Params.resources }}
+            <div class="resources">
+              <h5>Resources</h5>
+              <ul class="list-inline">
+                {{ range .Params.resources }}
+                <li class="list-item">
+                  <a class="btn btn-transparent-md" href="{{ .link | absURL }}">{{ .name }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </div>
+            {{ end }}
           </div>
         </div>
       </div>
