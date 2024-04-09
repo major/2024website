@@ -77,7 +77,7 @@ tab:
       speaker_image : "images/speakers/chris-aniszczyk-thumb.jpg"
       speaker_link: "https://kcd-texas.sessionize.com/speaker/144888ea-2819-4277-8607-ae777a2b15e0"
       talk_link: "https://kcd-texas.sessionize.com/session/657929"
-      subject: "KCD Keynote: Container Growth & The Need for Vendor Neutral Container Specifications"
+      subject: "KCD Keynote: The Future of Cloud Native & Open Source Dynamics in the Era of Licence Innovation"
       venue : "Exhibit Hall 2"
       time : "9:00 AM - 9:50 AM"
       column: 7
@@ -119,11 +119,11 @@ tab:
       subject : "Phippy's Field Guide to Wasm"
       venue : "Room 4"
       column: 5
-      time : "9:50 AM - 10:15 AM"
-      start_hour: 9
-      start_minute: 50
+      time: "10:00 AM - 10:25 AM"
+      start_hour: 10
+      start_minute: 00
       end_hour: 10
-      end_minute: 15
+      end_minute: 25
 
     - speaker : "Natalie Lunbeck"
       speaker_image : "images/speakers/natalie-lunbeck-thumb.jpg"
@@ -132,11 +132,11 @@ tab:
       subject : "Ephemeral Environments: Redefining Pre-Production"
       venue : "Room 5"
       column: 6
-      time : "9:50 AM - 10:15 AM"
-      start_hour: 9
-      start_minute: 50
+      time: "10:00 AM - 10:25 AM"
+      start_hour: 10
+      start_minute: 00
       end_hour: 10
-      end_minute: 15
+      end_minute: 25
 
     ## 10:00 AM
 
@@ -156,11 +156,11 @@ tab:
       subject : "Closing The Gap: Extending Kubernetes from Cloud to Edge with WebAssembly"
       venue : "Room 4"
       column: 5
-      time : "10:25 AM - 10:50 AM"
+      time: "10:30 AM - 10:55 AM"
       start_hour: 10
-      start_minute: 25
+      start_minute: 30
       end_hour: 10
-      end_minute: 50
+      end_minute: 55
 
     - speaker : "Bob Walker"
       speaker_image : "images/speakers/bob-walker-thumb.jpg"
@@ -169,11 +169,11 @@ tab:
       subject : "Lessons Learned hosting 1800 customer instances in 8 K8s Clusters"
       venue : "Room 5"
       column: 6
-      time : "10:25 AM - 10:50 AM"
+      time: "10:30 AM - 10:55 AM"
       start_hour: 10
-      start_minute: 25
+      start_minute: 30
       end_hour: 10
-      end_minute: 50
+      end_minute: 55
 
     ## 11:00 AM
 
@@ -207,14 +207,14 @@ tab:
       speaker_image : "images/speakers/shane-utt-thumb.jpg"
       speaker_link: "https://kcd-texas.sessionize.com/speaker/51687cfd-811b-4503-affe-31ead9709dde"
       talk_link: "https://kcd-texas.sessionize.com/session/627256"
-      subject : "Kubernetes Networking reImagined"
+      subject: "The Past, Present and Future of Gateway API"
       venue : "Room 4"
       column: 5
-      time : "11:35 AM - 12:00 PM"
+      time: "11:30 AM - 11:55 AM"
       start_hour: 11
-      start_minute: 35
-      end_hour: 12
-      end_minute: 0
+      start_minute: 30
+      end_hour: 11
+      end_minute: 55
 
     - speaker : "Wavell Watson"
       speaker_image : "images/speakers/wavell-watson-thumb.png"
@@ -223,11 +223,11 @@ tab:
       subject : "5g Core Testing with the CNF TestSuite"
       venue : "Room 5"
       column: 6
-      time : "11:35 AM - 12:00 PM"
+      time: "11:30 AM - 11:55 AM"
       start_hour: 11
-      start_minute: 35
-      end_hour: 12
-      end_minute: 0
+      start_minute: 30
+      end_hour: 11
+      end_minute: 55
 
     ## 12:00 PM
 
@@ -240,6 +240,15 @@ tab:
       column: -1
 
     ## 1:00 PM
+
+    - subject: "KCD Open Space Formations"
+      venue: "Room 4"
+      time: "1:00 PM - 1:30 PM"
+      column: 5
+      start_hour: 13
+      start_minute: 0
+      end_hour: 13
+      end_minute: 30
 
     - speaker : "Angel Ramirez"
       speaker_image : "images/speakers/angel-ramirez-thumb.png"
@@ -280,7 +289,25 @@ tab:
       end_hour: 16
       end_minute: 15
 
+    - subject: "KCD Open Spaces 1"
+      venue: "Room 4"
+      time: "1:35 PM - 2:05 PM"
+      column: 5
+      start_hour: 13
+      start_minute: 35
+      end_hour: 14
+      end_minute: 5
+
     ## 2:00 PM
+
+    - subject: "KCD Open Spaces 2"
+      venue: "Room 4"
+      time: "2:15 PM - 2:45 PM"
+      column: 5
+      start_hour: 14
+      start_minute: 15
+      end_hour: 14
+      end_minute: 45
 
     - speaker : "Rafa Brito"
       speaker_image : "images/speakers/rafa-brito-thumb.jpg"
@@ -295,17 +322,40 @@ tab:
       end_hour: 16
       end_minute: 10
 
+    - subject: "KCD Open Spaces 3"
+      venue: "Room 4"
+      time: "2:55 PM - 3:25 PM"
+      column: 5
+      start_hour: 14
+      start_minute: 55
+      end_hour: 15
+      end_minute: 25
+
+    ## 3:00 PM
+
+    - speaker: "William Morgan"
+      speaker_image: "images/speakers/william-morgan-thumb.jpg"
+      speaker_link: "https://kcd-texas.sessionize.com/speaker/6989101a-e183-41ec-ab8e-ef64a34e0703"
+      talk_link: "https://kcd-texas.sessionize.com/session/665187"
+      subject: "Sidecar containers in Kubernetes: Past, Present, and Future"
+      venue: "Room 4"
+      column: 5
+      time: "3:35 PM - 4:00 PM"
+      start_hour: 15
+      start_minute: 35
+      end_hour: 16
+      end_minute: 00
+
     ## 4:00 PM
 
     - subject : "KCD Lightning Talks"
       venue : "Room 4"
-      time : "4:15 PM - 4:35 PM"
+      time : "4:10 PM - 4:30 PM"
       column: 5
       start_hour: 16
-      start_minute: 15
+      start_minute: 10
       end_hour: 16
       end_minute: 30
-
 
     - speaker : "Andrew Martin"
       speaker_image : "images/speakers/andrew-martin-thumb.jpg"
@@ -313,12 +363,12 @@ tab:
       talk_link: "https://kcd-texas.sessionize.com/session/657342"
       subject : "Mini-CTF Workshop"
       venue : "Room 5"
-      time : "4:15 PM - 4:45 PM"
+      time : "4:15 PM - 4:40 PM"
       column: 6
       start_hour: 16
       start_minute: 15
       end_hour: 16
-      end_minute: 30
+      end_minute: 40
 
     - speaker : "Cody Lee Cochran"
       speaker_image : "images/speakers/cody-lee-cochran-thumb.jpg"
@@ -358,6 +408,25 @@ tab:
       start_minute: 30
       end_hour: 17
       end_minute: 45
+
+    - subject: "KCD Closing Circle & Closing Remarks"
+      venue: "Room 4"
+      time: "4:35 PM - 5:35 PM"
+      column: 5
+      start_hour: 16
+      start_minute: 35
+      end_hour: 17
+      end_minute: 35
+
+    - subject: "KCD Happy Hour"
+      talk_link: "https://kcd-texas.sessionize.com/session/b5193577-07ec-4e0f-b9ff-e4f0fefbcf28"
+      venue: "Aussie's"
+      time: "5:35 PM - 8:00 PM"
+      column: 5
+      start_hour: 17
+      start_minute: 35
+      end_hour: 20
+      end_minute: 00
 
   # tab item
   - name : "Day 2"
