@@ -12,9 +12,8 @@ social:
     link: "https://fosstodon.org/@anitazha"
 
 talks:
-  - title: "TXLF Keynote: How To (Not) Get Into Tech"
-    link: "talks/how-to-not-get-into-tech/"
-
+  - title: "TXLF Keynote: How (Not) To Get Into Tech"
+    link: "talks/how-not-to-get-into-tech/"
 ---
 
 Anita Zhang is the software engineering manager of Meta's Linux Userspace team.

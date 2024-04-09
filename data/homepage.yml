@@ -258,8 +258,8 @@ tab:
     - speaker : "Anita Zhang"
       speaker_image : "images/speakers/anita-zhang-thumb.png"
       speaker_link: "speakers/anita-zhang/"
-      talk_link: "talks/how-to-not-get-into-tech/"
-      subject : "TXLF Keynote: How To (Not) Get Into Tech"
+      talk_link: "talks/how-not-to-get-into-tech/"
+      subject: "TXLF Keynote: How (Not) To Get Into Tech"
       venue : "Exhibit Hall 2"
       time : "9:00 AM - 9:45 AM"
 
