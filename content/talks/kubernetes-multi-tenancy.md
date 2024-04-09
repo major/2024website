@@ -4,7 +4,7 @@ sponsor: "Loft Labs"
 description: "Texas Linux Fest 2024"
 page_header_bg: "images/background/page-title-bg.jpg"
 format: "Workshop"
-when: "Friday, April 12, 9:00 AM - 4:15 PM"
+when: "Friday, April 12, 9:00 AM - 11:45 AM, 1:30 PM - 4:15 PM"
 where: "Room 1"
 
 speakers:
