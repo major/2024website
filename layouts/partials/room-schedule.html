@@ -39,8 +39,8 @@
 	    {{ $end_row := add (mul (add (sub .end_hour $start_hour) (div .end_minute 60.0)) $rows_per_hour) 2 }}
 
 	    <div class="schedule-entry" style="grid-row: {{ $start_row }}/{{ $end_row }}; grid-column: 2">
-		<div class="speaker-name"><a href="/{{ .speaker_link }}">{{ .speaker }}</a></div>
-		<div class="talk-subject"><a href="/{{ .talk_link }}">{{ .subject }}</a></div>
+		<div class="speaker-name"><a href="{{ .speaker_link | relURL }}">{{ .speaker }}</a></div>
+		<div class="talk-subject"><a href="{{ .talk_link | relURL }}">{{ .subject }}</a></div>
 		<div class="talk-time">{{ .time }}</div>
 	    </div>
 	    {{ end }}
