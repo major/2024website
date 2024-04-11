@@ -157,20 +157,20 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Schedule"
-  name = "Day 1"
-  url = "/fpg-schedule-day-1"
+  name = "List view"
+  url = "/schedule"
   weight = 10
 
   [[menu.main]]
   parent = "Schedule"
-  name = "Day 2"
-  url = "/fpg-schedule-day-2"
+  name = "Grid view - Day 1"
+  url = "/fpg-schedule-day-1"
   weight = 20
 
   [[menu.main]]
   parent = "Schedule"
-  name = "Full"
-  url = "/schedule"
+  name = "Grid view - Day 2"
+  url = "/fpg-schedule-day-2"
   weight = 30
 
 [[menu.main]]
