@@ -44,7 +44,7 @@ html {
 #time-header {
     margin: 0;
     grid-column: 1;
-    grid-row: 1/122;
+    grid-row: 1/156;
     border-right-color: grey;
     border-right-style: dotted;
     border-right-width: 1px;
