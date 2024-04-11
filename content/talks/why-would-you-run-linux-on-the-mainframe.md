@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 13, 2:30 PM - 3:15 PM"
 where: "Room 1"
 
+resources:
+  - name: "Slides"
+    link: "slides/why-would-you-run-linux-on-the-mainframe.pdf"
+
 speakers:
   - name: "Elizabeth K. Joseph"
     image: "images/speakers/elizabeth-k-joseph.png"
