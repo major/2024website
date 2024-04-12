@@ -86,19 +86,6 @@ tab:
       end_hour: 9
       end_minute: 50
 
-    - speaker: "Lukas Gentele"
-      speaker_image: "images/speakers/lukas-gentele-thumb.jpg"
-      speaker_link: "speakers/lukas-gentele/"
-      talk_link: "talks/kubernetes-multi-tenancy/"
-      subject: "Kubernetes Multi-Tenancy - Let's Lock Down A Kubernetes Cluster Together Part 1 (Sponsor: Loft Labs)"
-      venue: "Room 1"
-      time: "9:00 AM - 11:45 PM"
-      column: 2
-      start_hour: 9
-      start_minute: 0
-      end_hour: 11
-      end_minute: 45
-
     - speaker: "Alexander Matyushentsev"
       speaker_image: "images/speakers/alexander-matyushentsev-thumb.jpg"
       speaker_link: "speakers/alexander-matyushentsev/"
@@ -262,19 +249,6 @@ tab:
       start_minute: 30
       end_hour: 14
       end_minute: 30
-
-    - speaker: "Lukas Gentele"
-      speaker_image: "images/speakers/lukas-gentele-thumb.jpg"
-      speaker_link: "speakers/lukas-gentele/"
-      talk_link: "talks/kubernetes-multi-tenancy/"
-      subject: "Kubernetes Multi-Tenancy - Let's Lock Down A Kubernetes Cluster Together Part 2 (Sponsor: Loft Labs)"
-      venue: "Room 1"
-      time: "1:30 PM - 4:15 PM"
-      column: 2
-      start_hour: 13
-      start_minute: 30
-      end_hour: 16
-      end_minute: 15
 
     - speaker : "Richard Rios"
       speaker_image : "images/speakers/richard-rios-thumb.png"
