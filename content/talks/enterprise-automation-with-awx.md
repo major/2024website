@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 12, 10:00 AM - 10:45 AM"
 where: "Room 4"
 
+resources:
+  - name: "Slides"
+    link: "slides/enterprise-automation-with-awx.pdf"
+
 speakers:
   - name: "Thomas Cameron"
     image: "images/speakers/thomas-cameron.jpg"

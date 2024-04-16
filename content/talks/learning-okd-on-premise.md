@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 13, 2:30 PM - 3:15 PM"
 where: "Room 2"
 
+resources:
+  - name: "Slides"
+    link: "slides/learning-okd-on-premise.pdf"
+
 speakers:
   - name: "Thomas Cameron"
     image: "images/speakers/thomas-cameron.jpg"
