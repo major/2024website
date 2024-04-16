@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 12, 9:00 AM - 9:45 AM"
 where: "Exhibit Hall 2"
 
+resources:
+  - name: "Slides"
+    link: "slides/how-not-to-get-into-tech.pdf"
+
 speakers:
   - name: "Anita Zhang"
     image: "images/speakers/anita-zhang.png"
