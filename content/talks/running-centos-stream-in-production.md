@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 13, 11:00 AM - 11:45 AM"
 where: "Room 1"
 
+resources:
+  - name: "Slides"
+    link: "slides/running-centos-stream-in-production.pdf"
+
 speakers:
   - name:  "Robert Callicotte"
     image: "images/speakers/robert-callicotte.jpg"
