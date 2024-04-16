@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 13, 3:30 PM - 4:15 PM"
 where: "Room 3"
 
+resources:
+  - name: "Slides"
+    link: "slides/what-actually-is-webassembly.pdf"
+
 speakers:
   - name: "Caleb Schoepp"
     image: "images/speakers/caleb-schoepp.jpg"
