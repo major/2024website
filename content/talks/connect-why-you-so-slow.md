@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 13, 12:00 PM - 12:45 PM"
 where: "Room 4"
 
+resources:
+  - name: "Slides"
+    link: "slides/connect-why-you-so-slow.pdf"
+
 speakers:
   - name: "Fred Lawler"
     image: "images/speakers/fred-lawler.jpg"
