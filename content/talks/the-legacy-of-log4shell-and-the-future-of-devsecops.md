@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 13, 11:00 AM - 11:45 AM"
 where: "Room 4"
 
+resources:
+  - name: "Slides"
+    link: "slides/the-legacy-of-log4shell-and-the-future-of-devsecops.pdf"
+
 speakers:
   - name: "Paul Novarese"
     image: "images/speakers/paul-novarese.jpg"
