@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 13, 4:30 PM - 5:15 PM"
 where: "Room 2"
 
+resources:
+  - name: "Slides"
+    link: "https://txlf24-containers.major.io/"
+
 speakers:
   - name: "Major Hayden"
     image: "images/speakers/major-hayden.png"
