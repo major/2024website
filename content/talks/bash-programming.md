@@ -6,6 +6,10 @@ format: "Workshop"
 when: "Friday, April 12, 4:30 PM - 5:45 PM"
 where: "Room 1"
 
+resources:
+  - name: "Slides"
+    link: "https://bash.codrcodz.io/"
+
 speakers:
   - name:  "Cody Lee Cochran"
     image: "images/speakers/cody-lee-cochran.jpg"
