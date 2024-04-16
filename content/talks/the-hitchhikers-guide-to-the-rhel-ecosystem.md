@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 13, 3:30 PM - 4:15 PM"
 where: "Room 1"
 
+resources:
+  - name: "Slides"
+    link: "slides/the-hitchhikers-guide-to-the-rhel-ecosystem.pdf"
+
 speakers:
   - name: "Carl George"
     image : "images/speakers/carl-george.png"
