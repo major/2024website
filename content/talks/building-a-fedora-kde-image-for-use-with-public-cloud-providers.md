@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 12, 10:00 AM - 10:45 AM"
 where: "Room 1"
 
+resources:
+  - name: "Slides"
+    link: "slides/building-a-fedora-kde-image-for-use-with-public-cloud-providers.pdf"
+
 speakers:
   - name: "David Duncan"
     image: "images/speakers/david-duncan.jpg"
