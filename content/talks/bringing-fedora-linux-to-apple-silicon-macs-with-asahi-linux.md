@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 13, 4:30 PM - 5:15 PM"
 where: "Room 1"
 
+resources:
+  - name: "Slides"
+    link: "slides/bringing-fedora-linux-to-apple-silicon-macs-with-asahi-linux.pdf"
+
 speakers:
   - name: "Neal Gompa"
     image: "images/speakers/neal-gompa.png"
