@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 12, 10:00 AM - 10:45 AM"
 where: "Room 3"
 
+resources:
+  - name: "Slides"
+    link: "slides/the-oldest-linux-peripheral.pdf"
+
 speakers:
   - name: "Matt Mullins"
     image: "images/speakers/speaker-one.jpg"
