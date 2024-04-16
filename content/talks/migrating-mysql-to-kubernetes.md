@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 13, 12:00 PM - 12:45 PM"
 where: "Room 2"
 
+resources:
+  - name: "Slides"
+    link: "slides/migrating-mysql-to-kubernetes.pdf"
+
 speakers:
   - name: "Matthew Boehm"
     image: "images/speakers/matthew-boehm.jpg"
