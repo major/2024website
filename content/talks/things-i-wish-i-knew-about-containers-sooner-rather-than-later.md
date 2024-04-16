@@ -6,6 +6,10 @@ format: "Presentation"
 when: "Saturday, April 12, 10:00 AM - 10:45 AM"
 where: "Room 2"
 
+resources:
+  - name: "Slides"
+    link: "slides/things-i-wish-i-knew-about-containers-sooner-rather-than-later.pdf"
+
 speakers:
   - name: "Alex Juarez"
     image: "images/speakers/alex-juarez.jpg"
